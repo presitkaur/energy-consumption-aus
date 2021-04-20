@@ -1,0 +1,2017 @@
+﻿Location,Industry, Fuels consumed,Fuels produced,Energy consumption       ,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-11,2011-12,2012-13,2013-14,2014-15,2015-16,2016-17,2017-18,2018-19
+aus,Agriculture,,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    LPG                    ,,,1.2,1.3,1.2,1.3,1.4,1.6,1.6,1.6,1.8,1.8,1.8,1.9,1.9,1.9,2,2.1,2.2,2.2,1.9
+aus,Agriculture,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Auto gasoline-unleaded ,,,4.4,4.5,4.4,4.5,4.5,4.6,4.7,4.8,4.7,5.2,6.1,6.3,6.4,6.3,6.7,7.1,7.8,7.1,6.2
+aus,Agriculture,    Aviation gasoline      ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+aus,Agriculture,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Kerosene and Heating oil  ,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+aus,Agriculture,    Diesel                    ,,,72.1,73,82.1,82,86.8,81.6,78.5,79.3,78.9,80.5,80,81.1,82.1,81.2,86,91.1,98.1,99.5,85.9
+aus,Agriculture,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Natural gas            ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.6,0.9,1.4,1.3,1.3,1.1,1.2,1.3
+aus,Agriculture,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,    Electricity            ,,,7.8,7.3,9.9,9.6,8.7,9,9.3,9.1,8.3,8.4,8,8.4,8,8.8,8.5,8,7.1,7.6,7.8
+aus,Agriculture,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Agriculture,,,Agriculture,85.5,86.2,97.7,97.6,101.5,96.9,94.2,95,93.9,96.1,96.2,98.2,99.3,99.6,104.5,109.8,116.3,117.6,103.1
+aus,Mining                                    ,,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Black coal             ,,,6.7,6.7,,,,,,,8.3,5.7,5.6,4.8,3.1,3.1,1.3,3.2,3.7,4.3,4.2
+aus,Mining                                    ,    Brown coal             ,,,8.1,11.8,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Coke                   ,,,0.3,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.4,0.2,0.3,0,0.2,0.3,1.2,1.7,1.5,1,1.2
+aus,Mining                                    ,    Coal byproducts        ,,,1.1,1,,,,,,,,,,,,,,,,0,0
+aus,Mining                                    ,    Brown coal briquettes,,,,,0.3,0.2,0.2,0.1,0.1,0.1,,,,,,,,,,,
+aus,Mining                                    ,"    Wood, woodwaste        ",,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0
+aus,Mining                                    ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Crude Oil and Other Refinery Feedstock,,,,,3,3,2.5,1.8,1.7,1.7,1.5,1.6,1.5,1.5,1.7,1.9,2.1,2.3,1.6,1.3,1
+aus,Mining                                    ,    LPG                    ,,,0.7,0.8,1.2,1.2,1.3,2,1.8,1.5,1.7,1.5,1.7,1.9,1.7,1.7,1.7,1.5,1.4,1.6,1.7
+aus,Mining                                    ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Auto gasoline-unleaded ,,,1.7,1.7,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0
+aus,Mining                                    ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Kerosene and Heating oil  ,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Mining                                    ,    Diesel                    ,,,68.7,74.5,92.2,97,111.4,105.7,101.3,108,116.9,121.4,139.7,174.4,208.9,213,202.2,202.5,215.8,235.5,250.5
+aus,Mining                                    ,    Fuel oil               ,,,1.8,1.6,0.5,0.5,0.5,0.6,0.6,0.6,1,0.4,0.5,0.5,0.3,0.9,1,0.7,0.7,0.6,0.7
+aus,Mining                                    ,    Petroleum products nec ,,,0.9,0.8,2.1,2.1,2,2.3,2.3,2.1,2.6,4,4.6,5.8,5.3,4.6,1.8,1.7,1.9,3.2,11.8
+aus,Mining                                    ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Natural gas            ,,,126.1,128.3,106.5,109.2,116.2,128.8,151.4,152.7,163.9,160.8,166.8,169.8,183.6,195,198.8,242.5,310,344.8,392.3
+aus,Mining                                    ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,    Electricity            ,,,56.8,56.9,52.1,54.8,55.7,66.1,67.8,67.6,73,76.1,85.7,87.9,94.3,106.1,107.9,119.3,129.5,137.4,149
+aus,Mining                                    ,    Liquid/gas Biofuels               ,,,,,0.1,0.1,0.2,0.2,0.2,0.1,0.2,0.8,1,1.3,1.7,2.6,3.2,0.2,0.2,0,0
+aus,Mining                                    ,,,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Brown coal briquettes  ,,7.5,6.6,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,    Thermal electricity    ,,11.4,8.9,,,,,,,,,,,,,,,,,
+aus,Mining                                    ,,,Mining                                    ,253.9,268.8,258.3,268.5,290.2,307.9,327.3,334.8,369.4,372.3,407.5,448.1,500.9,529.5,521.2,575.6,666.3,729.7,812.4
+aus,Coal_mining ,,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Brown coal briquettes,,,,,0.3,0.2,0.2,0.1,0.1,0.1,,,,,,,,,,,
+aus,Coal_mining ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Crude Oil and Other Refinery Feedstock,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    LPG                    ,,,,,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0
+aus,Coal_mining ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Auto gasoline-unleaded ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Coal_mining ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Kerosene and Heating oil  ,,,,,,,,,,,0,0,0,,0,0,,,,,
+aus,Coal_mining ,    Diesel                    ,,,,,48.7,55.1,65.6,58.5,56.3,57.8,62.9,65.2,74.9,91.1,101.3,103,97.4,103.4,111.7,121.3,130.5
+aus,Coal_mining ,    Fuel oil               ,,,,,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,,,0.1
+aus,Coal_mining ,    Petroleum products nec ,,,,,0.1,0.1,0.1,0.1,0.1,0.1,0.7,1.5,1.5,1.4,1.3,0.1,0.1,0.1,0,0,0
+aus,Coal_mining ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Natural gas            ,,,,,,,0,0.1,0.1,0.2,0.2,0.2,0,0,0,0,0.1,0.1,0,0,0
+aus,Coal_mining ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,    Electricity            ,,,,,17.1,17.5,18.1,18.3,19.3,19.4,19.8,19.3,19.7,20.4,21.8,23.4,23,22.7,23.2,22.4,22.9
+aus,Coal_mining ,    Liquid/gas Biofuels               ,,,,,0.1,0.1,0.2,0.2,0.2,0.1,0.2,0.8,1,1.3,1.7,2.6,3.1,0.2,0.1,0,0
+aus,Coal_mining ,,,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Coal_mining ,,,Coal_mining ,,,66.3,73.1,84.2,77.4,76.2,77.8,83.9,87,97.1,114.2,126.2,129.1,123.8,126.5,135.1,143.7,153.6
+aus,Oil_and_gas,,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Brown coal briquettes,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,0,0
+aus,Oil_and_gas,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Crude Oil and Other Refinery Feedstock,,,,,3,3,2.5,1.8,1.7,1.7,1.5,1.6,1.5,1.5,1.7,1.9,2.1,2.3,1.6,1.3,1
+aus,Oil_and_gas,    LPG                    ,,,,,0,0,0,0,0,0,0,0,0,0,0,0.1,0.3,0,0,0,0.2
+aus,Oil_and_gas,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Auto gasoline-unleaded ,,,,,0,0,0,0,,,0,0,0,0,0,0.2,0,0,0,0,0
+aus,Oil_and_gas,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Kerosene and Heating oil  ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0
+aus,Oil_and_gas,    Diesel                    ,,,,,0.6,1.9,3.8,7.6,2.9,2.6,2,3.1,2,2,6.7,6.6,5,2.2,2,3.9,4.6
+aus,Oil_and_gas,    Fuel oil               ,,,,,,,,,,,,0,0,0,,0,0,,,,
+aus,Oil_and_gas,    Petroleum products nec ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.9
+aus,Oil_and_gas,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Natural gas            ,,,,,103.7,106.5,114.4,126.5,148.8,149.8,161.2,158.6,164.4,164.4,174.4,186.4,192.1,237.1,304.1,339.6,386.6
+aus,Oil_and_gas,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,    Electricity            ,,,,,7.1,7,7.9,9.5,11.4,11.1,10,11.5,12.8,13,12.8,18.3,20.1,30.9,38.8,45.3,51.7
+aus,Oil_and_gas,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Oil_and_gas,,,Oil_and_gas,,,114.4,118.5,128.7,145.5,164.8,165.2,174.8,174.8,180.8,180.9,195.7,213.5,219.5,272.6,346.5,390,453
+aus,Other_mining ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Black coal             ,,,,,,,,,,,8.3,5.7,5.6,4.8,3.1,3.1,1.3,3.2,3.7,4.3,4.2
+aus,Other_mining ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Coke                   ,,,,,0.3,0.3,0.3,0.2,0.2,0.2,0.4,0.2,0.3,0,0.2,0.3,1.2,1.7,1.5,1,1.2
+aus,Other_mining ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,0,0
+aus,Other_mining ,    Brown coal briquettes,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,"    Wood, woodwaste        ",,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0
+aus,Other_mining ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Crude Oil and Other Refinery Feedstock,,,,,,,,,,,0,0,,,,,0,,,,
+aus,Other_mining ,    LPG                    ,,,,,1.2,1.2,1.3,1.9,1.7,1.4,1.6,1.5,1.6,1.9,1.6,1.6,1.3,1.5,1.4,1.6,1.6
+aus,Other_mining ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Auto gasoline-unleaded ,,,,,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+aus,Other_mining ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Kerosene and Heating oil  ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+aus,Other_mining ,    Diesel                    ,,,,,42.9,40,42,39.6,42.1,47.6,52,53,62.8,81.3,100.8,103.4,99.9,96.9,102.1,110.4,115.4
+aus,Other_mining ,    Fuel oil               ,,,,,0.5,0.5,0.5,0.6,0.6,0.6,0.9,0.3,0.5,0.5,0.3,0.9,0.9,0.7,0.7,0.6,0.6
+aus,Other_mining ,    Petroleum products nec ,,,,,1.9,1.9,1.9,2.2,2.1,2,1.8,2.5,3.1,4.5,4,4.6,1.7,1.6,1.9,3.2,2.8
+aus,Other_mining ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Natural gas            ,,,,,2.8,2.7,1.8,2.1,2.4,2.8,2.5,2,2.4,5.5,9.2,8.5,6.6,5.3,6,5.2,5.7
+aus,Other_mining ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,    Electricity            ,,,,,28,30.3,29.7,38.2,37.1,37.1,43.2,45.3,53.2,54.5,59.7,64.5,64.8,65.6,67.5,69.7,74.4
+aus,Other_mining ,    Liquid/gas Biofuels               ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0
+aus,Other_mining ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_mining ,,,Other_mining ,,,77.6,76.9,77.4,85,86.3,91.7,110.7,110.5,129.6,153,179,186.9,177.9,176.5,184.8,196,205.9
+aus,Manufacturing                             ,,,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,,,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,,,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,    Black coal             ,,,231,232,245.4,258,265.5,264.4,268.1,275,225.7,254.7,247.8,221.7,224.1,212.9,204.6,211.1,212.6,208.6,198.4
+aus,Manufacturing                             ,    Brown coal             ,,,,,13.2,9.8,10.3,7.9,7.5,7,6.2,4.9,5.6,6.5,6.1,6,1.1,0.1,0.1,0,0
+aus,Manufacturing                             ,    Coke                   ,,,83.6,81.4,70.9,76.4,73.4,72.4,73.1,74.3,63.4,75.5,78.6,58.8,56.6,55.2,55.8,55.9,56.8,57.9,55.8
+aus,Manufacturing                             ,    Coal byproducts        ,,,61.1,62.3,62.3,66.2,63.2,65.2,63.6,66.3,48.3,58.3,60.4,45.9,47.5,45.4,44.8,45.2,46.3,44.6,42.2
+aus,Manufacturing                             ,    Brown coal briquettes  ,,,4.6,2.5,8.5,4.3,5.7,4.6,3.7,3.3,4,3.9,3.9,3.7,3.3,2.9,0.2,0,0,0,0
+aus,Manufacturing                             ,"    Wood, woodwaste        ",,,25.2,25.7,29.5,29.3,29,29.8,31.8,33.5,27.2,27.8,28.6,28.1,26.3,27.6,27.5,29.4,30.2,28.3,26.3
+aus,Manufacturing                             ,    Bagasse                ,,,98.5,91.7,31.3,33.1,35.4,35.4,36.1,35.2,47.3,78.4,73.8,74.1,86.8,78.4,88.4,85.8,94.7,83.6,77
+aus,Manufacturing                             ,    Crude Oil and Other Refinery Feedstock,,,1695,1667.8,1626.4,1527.9,1541.2,1407.4,1503.9,1462.9,1477.8,1435.6,1630.2,1554.9,1549.5,1447.6,1263.1,1103.1,1070.4,1131.5,1122.3
+aus,Manufacturing                             ,    LPG                    ,,,17.5,17.7,15.8,16.5,17,19.7,21.4,19.4,20.7,21.4,23.2,24.6,23,20.6,21.2,20.7,18.3,17,17.1
+aus,Manufacturing                             ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,    Auto gasoline-unleaded ,,,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,1.2,1.1,1.3,1.2,1,1.3,0.3,0.4,0.4
+aus,Manufacturing                             ,    Aviation gasoline      ,,,,,,,,,,,0,0,0,,,0,0,,,,
+aus,Manufacturing                             ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,0,,,,
+aus,Manufacturing                             ,    Kerosene and Heating oil  ,,,0,0,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.6,0.3,0.4,0.4,0.6,1.8,6.2,0.3,0.3
+aus,Manufacturing                             ,    Diesel                    ,,,12.9,13.1,10.9,11.5,10.8,10.2,11.9,15.7,14.9,14.9,17.1,19.3,22.9,23.4,21.7,17.7,19.2,19.2,20.5
+aus,Manufacturing                             ,    Fuel oil               ,,,35.4,35.4,34.2,33.6,33.3,35,33.1,36.1,29,31.6,48,51.2,40,33.3,25.9,8,9.9,8.8,5.2
+aus,Manufacturing                             ,    Petroleum products nec ,,,157,154.2,174.5,203.3,222.6,218.4,219,218.8,204,197.1,217.6,248.6,256.6,252.3,202.1,192,177,173.1,174.2
+aus,Manufacturing                             ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,    Natural gas            ,,,397.8,397.5,407,417.4,423.7,423,435.8,435.1,420.4,422.9,412.6,425.1,439.6,439.2,420.4,404.6,386.4,385.1,372.2
+aus,Manufacturing                             ,    Town gas               ,,,2.3,2.3,4.1,4.1,4.1,4,3.9,3.1,0.6,0.1,0.3,0,0,0,0,0,0,0,0
+aus,Manufacturing                             ,    Solar energy           ,,,,,,,,,,,,,,,,,0,0,0,0,0
+aus,Manufacturing                             ,    Electricity            ,,,265.6,267.4,236.2,237.1,241.8,238.8,251.1,249.1,253.2,260.3,248.3,243.6,235.7,233.3,217.9,218,206.9,208,204.3
+aus,Manufacturing                             ,    Liquid/gas Biofuels               ,,,1.6,2.1,2.6,1.7,1.8,1.7,1.7,1.7,1.6,2.2,3.5,3.5,1.6,1.5,1.8,2.1,2,2,2.1
+aus,Manufacturing                             ,,,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,,    Coke                   ,,94.9,92.9,89.1,95.5,95,90.8,90.7,90.7,67.5,85.5,91.4,80.6,84.8,78.8,71.9,73,70.8,68.1,62.6
+aus,Manufacturing                             ,,    Coal byproducts        ,,62.2,61.7,66.3,63.7,65.3,65.4,63.5,64.9,51.9,61.9,63.7,49.4,46.4,44.3,43.7,44.2,45.5,44.1,41.3
+aus,Manufacturing                             ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,,    LPG                    ,,,,48.5,33,38.2,42.1,49,50.3,50.9,47.4,63.1,52.4,50.8,46.6,41.6,34.6,31.9,32,24.4
+aus,Manufacturing                             ,,    Auto gasoline-leaded   ,,100.3,53.8,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,,    Auto gasoline-unleaded ,,551.3,561.4,613.1,594.4,612.6,565.2,606.4,584.1,586.9,573.6,569.2,532.6,533.7,496.5,436.3,398.2,377.8,390.4,381.4
+aus,Manufacturing                             ,,    Aviation gasoline      ,,6.9,4.8,4.4,3.5,3.9,3.7,3.7,3.7,3.2,3.2,2.8,2.8,2.9,2.8,2.7,2,1.5,1.7,1.7
+aus,Manufacturing                             ,,    Aviation turbine fuel  ,,214.8,198.2,188.6,182.7,195.9,191.9,196.2,190.7,202.2,196.5,200.5,200.7,203.7,184.3,156.6,125.6,129.9,138.4,144.2
+aus,Manufacturing                             ,,    Kerosene and Heating oil                    ,,5.4,8.6,11.9,6.9,4.9,4.2,3.3,3.8,2.6,1.3,0.7,0.5,0.5,0.4,0.4,0.4,0.3,0.3,0.2
+aus,Manufacturing                             ,,    Diesel                    ,,527.1,517.8,515.2,498.5,510.5,396.9,427.5,470.2,472.6,452.5,497.8,494.3,499.1,481.3,442.4,347.1,334.7,354.8,348.5
+aus,Manufacturing                             ,,    Fuel oil               ,,68.3,70.6,58,44.2,45,42.3,38,39.5,35.2,34.3,38.6,38.9,41.6,33.2,30.4,25.7,30.8,34.2,42.2
+aus,Manufacturing                             ,,    Petroleum products nec ,,,,128.6,218.8,174.2,146,147.9,149.1,129,131.6,210.9,313.4,266.1,257.7,247.2,219.6,221.6,212.4,208.8
+aus,Manufacturing                             ,,    Solvents               ,,6,5.3,5.5,4.8,4.5,4.3,4.5,4.4,3.2,3,3.1,3,3.3,2.8,3,3.3,2.9,3.1,3.6
+aus,Manufacturing                             ,,    Lubricants and greases   ,,31.8,25.6,24,10.6,8.3,6.8,6.1,5.1,5.2,3.5,2.4,3.1,6.6,6.7,2.8,5.7,4.3,5,5
+aus,Manufacturing                             ,,    Bitumen                ,,32.3,38.7,30.3,29.7,45.9,34.6,59.7,63.9,56.9,30.4,20.9,18.7,11.3,6.8,5.4,7.3,5.2,4.1,3.9
+aus,Manufacturing                             ,,    Town gas               ,,4,4.1,4.1,4.1,4.1,4,3.9,3.1,,,,,,,,,,,
+aus,Manufacturing                             ,,    Thermal electricity    ,,26,25.2,,,,,,,,,,,,,,,,,
+aus,Manufacturing                             ,,,Manufacturing                             ,1188.3,1207.4,1175,1136.6,1163.7,1231.4,1258.7,1207.5,1171.1,1259.5,1330.2,1214.6,1265.3,1234,1112.8,1110.2,1080.1,1079.7,1050.2
+aus,Food_beverages,,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,    Black coal             ,,,9,8.5,11.3,11,10.9,11.1,11.2,11.9,11.8,11,11.5,8.6,7.9,7.3,7,7.3,6.9,6.4,6.9
+aus,Food_beverages,    Brown coal,,,,,,,,,,,,,,,0,0,0,0.1,0.1,,
+aus,Food_beverages,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,    Coal byproducts        ,,,,,0,0,3,3,,,,,,,,,,,,,
+aus,Food_beverages,    Brown coal briquettes  ,,,0.6,0.4,6.6,3.3,4.4,3.5,2.8,2.5,2.2,2.4,2.4,2,1.9,1.7,0.2,0,0,0,0
+aus,Food_beverages,"    Wood, woodwaste        ",,,4.5,4.6,2.4,2.4,2.4,2.6,2.6,3.2,2.4,2.2,2,2.3,2.5,2.6,2.6,2.3,1.9,1.9,1.9
+aus,Food_beverages,    Bagasse                ,,,98.5,91.7,31.3,33.1,35.4,35.4,36.1,35.2,47.3,76.7,72.1,72.6,86.8,78.4,88.4,85.8,94.7,83.6,77
+aus,Food_beverages,    Crude Oil and Other Refinery Feedstock     ,,,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+aus,Food_beverages,    LPG                    ,,,0.7,0.8,0.8,0.8,0.8,1,0.8,0.8,1,0.9,1.3,1.4,1.2,1.1,0.8,0.8,0.7,0.7,0.8
+aus,Food_beverages,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,    Auto gasoline-unleaded ,,,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.1,0.1,0.2,0.6,0.5,0.3,0.2,0.3,0.4,0.4
+aus,Food_beverages,    Aviation gasoline      ,,,,,,,,,,,0,0,0,,,0,0,,,,
+aus,Food_beverages,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,    Kerosene and Heating oil  ,,,0,0,,,,,,,0,0,0,0,0,0.1,0.2,0,0,0,0
+aus,Food_beverages,    Diesel                    ,,,0.9,0.9,1,1,1,1,1.2,1.1,1.1,1.2,1.5,1.9,1.3,1.6,1.4,1.6,1.3,1.5,1.5
+aus,Food_beverages,    Fuel oil               ,,,0.8,0.8,0.6,0.7,0.7,0.7,0.7,0.8,0.7,0.3,0.3,0.4,0.5,0.5,0.5,0.5,0.5,0.4,0.3
+aus,Food_beverages,    Petroleum products nec ,,,,,0,0,0,0,0,0,2.6,2.7,2.7,2.6,2.4,2.3,2.2,2,1.9,2.1,2.1
+aus,Food_beverages,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,    Natural gas            ,,,28.2,29.5,27.7,28.4,30.1,29.8,29.6,29.9,31,31,32.3,34.5,33.5,33.8,36.7,35.6,33.4,33.7,32.8
+aus,Food_beverages,    Town gas               ,,,,,,,,,,,,0.1,0.3,,,,,,,,
+aus,Food_beverages,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,    Electricity            ,,,23.3,24.1,19.2,19.6,18.8,19.5,20,20.1,18.8,19.3,24.1,24,24,23.7,24.6,24.5,23.1,22.6,21.7
+aus,Food_beverages,    Liquid/gas Biofuels               ,,,,,0.1,0.1,0.1,0.2,0.2,0.2,0.1,0.2,0.6,0.6,0.5,0.5,0.6,0.8,0.8,0.8,0.8
+aus,Food_beverages,,,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,    Thermal electricity    ,,2.9,3.1,,,,,,,,,,,,,,,,,
+aus,Food_beverages,,,Food_beverages,163.8,158.2,101.4,100.9,108.1,108.1,105.6,106.2,119.4,148.3,151.2,151.2,163.3,154.3,165.6,161.7,165.8,154.1,146.4
+aus,Textile,,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Black coal             ,,,0.5,0.5,0.5,0.5,0.6,0.5,0.5,0.5,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.5,0.5
+aus,Textile,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Brown coal briquettes  ,,,0.5,0.5,0.5,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,,,,,
+aus,Textile,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Crude Oil and Other Refinery Feedstock     ,,,,,0,0,0.6,0.6,0.6,0.6,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+aus,Textile,    LPG                    ,,,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.2,0.2,0.2,0.2,0.2
+aus,Textile,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,0,0,0,0,0,0,
+aus,Textile,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Diesel                    ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0.1,0.1,0,0,0,0.1,0
+aus,Textile,    Fuel oil               ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Textile,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Natural gas            ,,,6.4,6.5,6.4,6.5,6.5,6.4,6.4,6.1,5.4,5.1,5.2,5.2,5.1,5,5,5,5.1,5.5,5.1
+aus,Textile,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,    Electricity            ,,,3.1,3.1,3.5,3.5,3.3,3.3,3.4,3.2,2.8,2.6,1.2,0.9,0.9,0.9,1.1,1,0.8,0.8,0.7
+aus,Textile,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Textile,,,Textile,11,11,11.4,11.2,11.7,11.4,11.5,10.9,9.7,9.1,7.7,7.5,7.5,7.4,7.4,7.3,7.2,7.6,7.1
+aus,Wood                   ,,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Black coal             ,,,4.1,4.1,5.5,6,6.6,6.8,5.7,5.4,,,,,,,,,,,
+aus,Wood                   ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,"    Wood, woodwaste        ",,,17.5,17.9,23.5,23.2,22.9,23.6,25.6,26.6,,,,,,,,,,,
+aus,Wood                   ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    LPG                    ,,,0.3,0.3,0,0.1,0.1,0.1,0.1,0.1,,,,,,,,,,,
+aus,Wood                   ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Diesel                    ,,,0.7,0.7,0.5,0.5,0.5,0.5,0.4,0.4,,,,,,,,,,,
+aus,Wood                   ,    Fuel oil               ,,,0.9,0.9,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Petroleum products nec ,,,0.1,0.1,0.1,0.1,0.1,0,0.1,0.1,,,,,,,,,,,
+aus,Wood                   ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Natural gas            ,,,18.7,18.7,18.8,20,21.9,21.6,22.4,21.9,,,,,,,,,,,
+aus,Wood                   ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,    Electricity            ,,,18,17.9,15.5,15.8,15.4,15.8,17.4,17.5,,,,,,,,,,,
+aus,Wood                   ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,    Thermal electricity    ,,2.4,2.4,,,,,,,,,,,,,,,,,
+aus,Wood                   ,,,Wood                   ,62,62.2,63.8,65.7,67.5,68.5,71.7,72,,,,,,,,,,,
+aus,Other_wood_products                  ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Black coal             ,,,,,,,,,,,0.4,0.4,0.1,0.2,0.1,0.1,0.1,0.2,0.2,0.2,0.2
+aus,Other_wood_products                  ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Coal byproducts        ,,,,,,,,,,,,,0.1,0,0,0,0,0,0,0,0
+aus,Other_wood_products                  ,    Brown coal briquettes  ,,,,,,,,,,,,,,0.1,0.1,0.1,0.1,,,,
+aus,Other_wood_products                  ,"    Wood, woodwaste        ",,,,,,,,,,,13.4,13.1,13.5,12.3,12.1,12.7,13.1,14.5,14.5,13.4,11.1
+aus,Other_wood_products                  ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    LPG                    ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0.1,0
+aus,Other_wood_products                  ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Auto gasoline-unleaded ,,,,,,,,,,,0,0,0,,0,0,0,0,0,0,0
+aus,Other_wood_products                  ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Kerosene and Heating oil  ,,,,,,,,,,,0,,,,,,,,,,0
+aus,Other_wood_products                  ,    Diesel                    ,,,0,0,,,,,,,0.2,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+aus,Other_wood_products                  ,    Fuel oil               ,,,,,,,,,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Other_wood_products                  ,    Petroleum products nec ,,,,,,,,,,,0,0,0,0,,0,,,,,
+aus,Other_wood_products                  ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,    Natural gas            ,,,,,,,,,,,2.1,2.4,1.9,1.6,1.9,2.2,2.4,2.3,2.6,2.5,2.4
+aus,Other_wood_products                  ,    Town gas               ,,,,,,,,,,,0,,,,,,,,,,
+aus,Other_wood_products                  ,    Solar energy           ,,,,,,,,,,,,,,,,,0,0,0,0,0
+aus,Other_wood_products                  ,    Electricity            ,,,,,,,,,,,3.7,3.6,3.1,2.8,2.6,3.2,3,3.1,2.8,3.4,2.8
+aus,Other_wood_products                  ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,0,,,,,
+aus,Other_wood_products                  ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_wood_products                  ,,,Other_wood_products                  ,,,,,,,,,20.2,19.7,18.9,17.2,17.2,18.7,19,20.5,20.5,19.9,16.9
+aus,Pulp_paper,,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Black coal             ,,,,,,,,,,,4.3,3.9,2.7,2.5,4.3,3,2.8,2.8,2.7,2.7,2.6
+aus,Pulp_paper,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,"    Wood, woodwaste        ",,,,,,,,,,,7.4,9.1,9.6,9.6,6.9,7.2,7,7.4,7.8,7.6,7.3
+aus,Pulp_paper,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    LPG                    ,,,,,,,,,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Pulp_paper,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Auto gasoline-unleaded ,,,,,,,,,,,0,0,,,,,,,,,
+aus,Pulp_paper,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Diesel                    ,,,0,0,,,,,,,0,0,0,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2
+aus,Pulp_paper,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Petroleum products nec ,,,,,,,,,,,0.1,0.1,0.1,0.1,1.8,1.9,2.1,2,2.1,2.2,2.1
+aus,Pulp_paper,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Natural gas            ,,,,,,,,,,,14.6,14.6,14.3,12.8,10.4,9.8,9.9,9.7,9.6,10.6,10.6
+aus,Pulp_paper,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,    Electricity            ,,,,,,,,,,,13.8,14.5,16,15.2,14.7,14.3,14.3,14.4,14.4,14.1,13.7
+aus,Pulp_paper,    Liquid/gas Biofuels               ,,,,,,,,,,,0,0.5,1,1,0.7,0.8,0.7,0.8,0.8,0.8,0.8
+aus,Pulp_paper,,,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Pulp_paper,,,Pulp_paper,,,,,,,,,40.4,42.8,43.9,41.3,39,37.2,37,37.3,37.6,38.3,37.3
+aus,Petroleum_refining                           ,,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Crude Oil and Other Refinery Feedstock     ,,,1695,1667.8,1626.3,1527.8,1540.4,1406.6,1503.1,1462.2,1477.1,1435,1629.6,1554.2,1548.9,1447,1262.4,1102.4,1069.8,1130.8,1121.6
+aus,Petroleum_refining                           ,    LPG                    ,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,1.7,2.2,0.9,1.2,1.2,1.1,1.6,0,0
+aus,Petroleum_refining                           ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Auto gasoline-unleaded ,,,,,,,,,,,,,1.1,0.8,0.5,0.6,0.7,1.1,,,
+aus,Petroleum_refining                           ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Kerosene and Heating oil  ,,,,,,,,,,,,,0.2,,,,0,1.5,5.9,,
+aus,Petroleum_refining                           ,    Diesel                    ,,,1,1,1,1,,,,,,,2.5,2.9,5.6,5.1,8.4,6.3,7.4,7.1,8.2
+aus,Petroleum_refining                           ,    Fuel oil               ,,,0.5,0.6,0.2,0.2,0,0,,,,,16.9,19.8,7.5,7.5,15.1,0.6,6,5.2,0.3
+aus,Petroleum_refining                           ,    Petroleum products nec ,,,99.6,96.2,102.7,119,132.6,130.2,131.2,127.5,113,104.7,94.4,101.8,125.7,115.5,94.1,77,66.7,63,63.2
+aus,Petroleum_refining                           ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Natural gas            ,,,20,20.7,22.3,22.7,24.1,24.6,23.6,22.8,27.5,24.8,13.7,23.3,21.7,14.2,12.2,8.5,9.5,3.1,4.5
+aus,Petroleum_refining                           ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,    Electricity            ,,,6.7,6.5,6.8,6.8,6.7,6.9,6.6,7,6.3,6.5,5,4.7,4.6,4.8,4.5,3.6,3.4,3.7,3.7
+aus,Petroleum_refining                           ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,    Coal byproducts        ,,,,9,2.3,0.5,0.3,0.2,0.2,0.1,,,,,,,,,,
+aus,Petroleum_refining                           ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,    LPG                    ,,,,42.9,27.4,25.7,29,36,39.2,35.7,31.6,47.4,41.5,39.7,37.5,33.9,27.9,25.4,25.2,24.4
+aus,Petroleum_refining                           ,,    Auto gasoline-leaded   ,,100.3,53.8,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,    Auto gasoline-unleaded ,,551.3,561.4,613.1,594.4,612.6,565.2,606.4,584.1,586.9,573.6,569.2,532.6,533.6,496.4,436.2,398.1,377.7,390.4,381.4
+aus,Petroleum_refining                           ,,    Aviation gasoline      ,,6.9,4.8,4.4,3.5,3.9,3.7,3.7,3.7,3.2,3.2,2.8,2.8,2.9,2.8,2.7,2,1.5,1.7,1.7
+aus,Petroleum_refining                           ,,    Aviation turbine fuel  ,,214.8,198.2,188.6,182.7,195.9,191.9,196.2,190.7,202.2,196.5,200.5,200.7,203.7,184.3,156.6,125.6,129.9,138.4,144.2
+aus,Petroleum_refining                           ,,    Kerosene and Heating oil                    ,,5.4,8.6,11.9,6.9,4.9,4.2,3.3,3.8,2.6,1.3,0.7,0.5,0.5,0.4,0.4,0.4,0.3,0.3,0.1
+aus,Petroleum_refining                           ,,    Diesel                    ,,527.1,517.8,515.2,498.5,510.5,396.9,427.5,470.2,472.6,452.5,497.7,493.8,498.5,480.9,442.1,346.8,334.4,354.6,348.3
+aus,Petroleum_refining                           ,,    Fuel oil               ,,68.3,70.6,57.7,43.9,44.7,42,37.7,39.2,34.9,33.9,38.1,38.4,34.9,26.2,24.6,21.2,26.3,30.9,37
+aus,Petroleum_refining                           ,,    Petroleum products nec ,,,,114.1,204,160,131.9,133.9,135.1,114,113.8,195,295.1,238.2,233.1,226.9,183.4,185,177,172.1
+aus,Petroleum_refining                           ,,    Solvents               ,,6,5.3,5.5,4.8,4.5,4.3,4.5,4.4,3.2,3,3.1,3,3.3,2.8,3,3.3,2.9,3.1,3.6
+aus,Petroleum_refining                           ,,    Lubricants and greases   ,,31.8,25.6,23.6,10.2,7.8,6.3,5.7,4.7,4.7,2.9,,,,,,,,,
+aus,Petroleum_refining                           ,,    Bitumen                ,,32.3,38.7,30.3,29.7,45.9,34.6,59.7,63.9,56.9,30.4,20.9,18.7,10.2,5.9,5,7.3,5.2,4.1,3.9
+aus,Petroleum_refining                           ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,    Thermal electricity    ,,1.3,1.8,,,,,,,,,,,,,,,,,
+aus,Petroleum_refining                           ,,,Petroleum_refining                           ,277.5,306.4,143,69.4,87.1,158.2,149.8,80.6,107.1,128.6,189.6,82.7,150,125.4,67.3,86.3,81.7,87.1,84.8
+aus,Other_petroleum_manufacturing          ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Brown coal             ,,,,,13.2,9.8,10.3,7.9,7.4,7,6.2,4.9,5.5,6.5,6.1,5.9,1,,,,
+aus,Other_petroleum_manufacturing          ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,0.1
+aus,Other_petroleum_manufacturing          ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    LPG                    ,,,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.2,0.3,0.2,0.2,0.2,0.2,0.2,0.3,0.2,0.2
+aus,Other_petroleum_manufacturing          ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,0.1,0.1,,,,,
+aus,Other_petroleum_manufacturing          ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Kerosene and Heating oil  ,,,0,0,0,0,0,0,0,0,0,0,0.1,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Other_petroleum_manufacturing          ,    Diesel                    ,,,0.1,0.1,0.4,0.4,0.4,0.4,0.4,0.4,0.6,0.5,1.5,1,1.7,1.2,0.7,0.8,1.2,1.1,1.3
+aus,Other_petroleum_manufacturing          ,    Fuel oil               ,,,0.7,0.8,0.4,0.3,0.3,0.3,0.3,0.3,0,0.1,0.1,0.2,2.3,2.5,1.9,1.6,1.9,1.7,2.6
+aus,Other_petroleum_manufacturing          ,    Petroleum products nec ,,,,,6.7,6.7,7.4,7.7,7.2,7,7.2,6.5,7.8,9.8,14.2,14.6,9.4,7,6.8,5.7,5.6
+aus,Other_petroleum_manufacturing          ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Natural gas            ,,,0.7,0.6,15.7,15.9,15.7,15.3,15.4,15.9,14.6,15.4,15.3,16,18,16.9,14.9,14.5,9.8,12.9,12.4
+aus,Other_petroleum_manufacturing          ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,    Electricity            ,,,0.3,0.3,0.8,0.8,1.2,0.8,0.8,0.9,1.1,1,1.3,1.5,1.2,1.3,1.2,1.2,1,0.9,0.9
+aus,Other_petroleum_manufacturing          ,    Liquid/gas Biofuels               ,,,,,,,,,,,,0,0,0,,0,,0,0,,
+aus,Other_petroleum_manufacturing          ,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,    Coke      ,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,    Coal byproducts        ,,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,    Brown coal briquettes  ,,,,10.6,3.7,7.1,8.5,6.8,6,6.3,5.9,6,6,5.2,4.6,1,,,,
+aus,Other_petroleum_manufacturing          ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,    LPG                    ,,,,5.6,5.6,12.5,13.1,12.9,11.1,13.1,13.3,12.4,8.6,8.5,7.2,5.6,4.5,4.7,5.2,
+aus,Other_petroleum_manufacturing          ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,0.1,0.1,0.1,0.1,0.1,0,0
+aus,Other_petroleum_manufacturing          ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,0
+aus,Other_petroleum_manufacturing          ,,    Diesel                    ,,0,0,,,,,,,0,,0,0.5,0.6,0.5,0.3,0.3,0.3,0.2,0.2
+aus,Other_petroleum_manufacturing          ,,    Fuel oil               ,,,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.5,0.5,6.6,7,5.8,4.5,4.5,3.3,5.2
+aus,Other_petroleum_manufacturing          ,,    Petroleum products nec ,,,,2.4,2.4,2.3,2.6,2.4,2.1,2.1,5.2,4.4,1.5,3.9,5.2,2.4,1.4,1.6,1.8,2.1
+aus,Other_petroleum_manufacturing          ,,    Solvents               ,,,,,,,,,,,,,,,0,,,,,
+aus,Other_petroleum_manufacturing          ,,    Lubricants and greases   ,,,,0.4,0.4,0.5,0.5,0.4,0.4,0.4,0.6,2.4,3.1,6.6,6.7,2.8,5.7,4.3,5,5
+aus,Other_petroleum_manufacturing          ,,    Bitumen                ,,,,,,,,,,,,,,1,1,0.4,,,,
+aus,Other_petroleum_manufacturing          ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_petroleum_manufacturing          ,,,Other_petroleum_manufacturing          ,11.2,8.8,18.2,21.6,13,7.6,8.7,11.6,16.4,11,13.6,21.8,17.6,17,17.3,15.2,11.6,13,16.6
+aus,Basic_chemical_Polymer,,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Black coal             ,,,2.3,2.3,4.7,4.7,5.1,5.7,5.6,5.7,6.1,6.1,5.9,6.6,6.7,6.3,6.7,5.9,6.2,6.1,6.4
+aus,Basic_chemical_Polymer,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Coke                   ,,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.2,0.2,0.2,0.2,0.2,0.2
+aus,Basic_chemical_Polymer,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Brown coal briquettes  ,,,0.9,0.9,0.7,0.4,0.5,0.4,0.3,0.3,0.3,0.2,0.2,0.2,0,0,,,,,
+aus,Basic_chemical_Polymer,"    Wood, woodwaste        ",,,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.4,0.6,0.5,0.5,0.5,0.5,0.4,0.5,0.5
+aus,Basic_chemical_Polymer,    Bagasse                ,,,,,,,,,,,,1.7,1.8,1.5,,,,,,,
+aus,Basic_chemical_Polymer,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    LPG                    ,,,12.1,12.2,10.4,10.6,10.5,11.5,13.9,11.2,12.7,12.7,12.8,13,13.9,11.9,11.3,11,10.1,10.3,10.2
+aus,Basic_chemical_Polymer,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Auto gasoline-unleaded ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Basic_chemical_Polymer,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,0,,,,
+aus,Basic_chemical_Polymer,    Kerosene and Heating oil  ,,,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Basic_chemical_Polymer,    Diesel                    ,,,4.8,4.8,0.4,0.5,0.5,0.5,0.5,0.5,4.7,5.3,4.8,5.6,6.6,7.5,5.9,4.1,4.5,4.5,4.5
+aus,Basic_chemical_Polymer,    Fuel oil               ,,,0.1,0.1,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.7,0.7,0.7,0.1,0.1,0.1,0.1
+aus,Basic_chemical_Polymer,    Petroleum products nec ,,,39.5,39.5,41.1,53.5,56.7,56.4,56.9,58.3,55,56.9,67.8,79.9,73.4,78,61.9,73.4,70.4,69.7,69.9
+aus,Basic_chemical_Polymer,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Natural gas            ,,,96.6,93,105.7,108.7,100.2,102.3,96.1,105.8,102.7,117.4,114.8,114.4,124.3,134.6,134.3,128,122.7,123.8,113.5
+aus,Basic_chemical_Polymer,    Town gas               ,,,2.3,2.3,4.1,4.1,4.1,4,3.9,3.1,,,0,0,0,0,0,0,0,0,0
+aus,Basic_chemical_Polymer,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,    Electricity            ,,,14.5,14.9,17,15.8,15.9,16.5,17.9,16.7,16.9,17.8,15.9,15.7,15.8,15,14.8,14.5,14.5,14.2,14.1
+aus,Basic_chemical_Polymer,    Liquid/gas Biofuels               ,,,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.2,0.2,0.2,0.2
+aus,Basic_chemical_Polymer,,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Petroleum products nec ,,13.8,11.5,12,12.3,11.9,11.6,11.6,11.9,12,10.9,9.9,15.1,22.2,17.7,16.2,33.4,33.4,32.1,33
+aus,Basic_chemical_Polymer,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Town gas/Hydrogen,,4,4.1,4.1,4.1,4.1,4,3.9,3.1,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,    Thermal electricity    ,,1.2,1.4,,,,,,,,,,,,,,,,,
+aus,Basic_chemical_Polymer,,,Basic_chemical_Polymer,155.2,154.6,170.5,184.3,180.2,184.2,182.2,189.3,186.1,206.7,212.9,221.9,218.2,235.4,218.4,202.4,194.4,195.9,186.8
+aus,Non-metallic_mineral                ,,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Black coal             ,,,24,24.1,29.9,30.7,29.2,29.4,30.1,31.1,26.3,25.7,25.6,24.1,22.5,21.3,20.3,18.9,19.7,19.3,18.1
+aus,Non-metallic_mineral                ,    Brown coal             ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Non-metallic_mineral                ,    Coke                   ,,,0.1,0.3,0.3,0.2,0.3,0.3,0.3,0.3,0.3,0.1,0.1,0.1,0.3,0.5,0.1,0.1,0.1,0.1,0.1
+aus,Non-metallic_mineral                ,    Coal byproducts        ,,,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.7,0.8,0.9,0.5,0.5,0.6,0.6,0.7,0.6,0.3,0.4
+aus,Non-metallic_mineral                ,    Brown coal briquettes  ,,,,,,,,,,,,0,0,0,,,,,,,
+aus,Non-metallic_mineral                ,"    Wood, woodwaste        ",,,0.9,0.9,1.1,1.2,1.2,1.1,1.1,1.1,1.9,1.8,1.7,1.8,1.9,2.3,2.3,2.9,2.8,3.1,3.5
+aus,Non-metallic_mineral                ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    LPG                    ,,,2.3,2.3,2.6,3,3.6,5.1,4.6,5.2,4.8,5.7,5.4,5.7,4.7,4.3,5.9,5.8,3.9,4.3,4.4
+aus,Non-metallic_mineral                ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Auto gasoline-unleaded ,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+aus,Non-metallic_mineral                ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Kerosene and Heating oil  ,,,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0
+aus,Non-metallic_mineral                ,    Diesel                    ,,,1.3,1.3,1.6,1.7,2,1.6,1.7,1.8,0.9,2.1,0.7,1,1,1,1,1.1,1.1,1.1,1.1
+aus,Non-metallic_mineral                ,    Fuel oil               ,,,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.4,0.4,0.5,0.5,0.3,0.3,0.3,0.3,0.3,0.3,0.4
+aus,Non-metallic_mineral                ,    Petroleum products nec ,,,1.4,1.4,3,2.7,2.7,2.5,2.5,4.6,4.4,4.4,4.2,4.4,0.9,1.3,1.2,1.2,1.2,1.3,1.6
+aus,Non-metallic_mineral                ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Natural gas            ,,,53.3,53.5,58.6,59.1,56,52.2,64.3,59.8,62.2,63.6,67.7,58.9,58.3,54.5,54.4,54.9,50.4,51.2,51.3
+aus,Non-metallic_mineral                ,    Town gas               ,,,,,,,,,,,,0,0,,,,,,,,
+aus,Non-metallic_mineral                ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,    Electricity            ,,,13.4,13.7,16.6,16.6,15.2,14.5,16.1,16.9,16.2,16.6,12.6,12.6,12.4,12.1,11.8,12.3,11.6,11.5,11.6
+aus,Non-metallic_mineral                ,    Liquid/gas Biofuels               ,,,1.6,2.1,2.3,1.4,1.4,1.4,1.3,1.3,1.2,1.2,1.2,1.2,0,0,0.2,0.3,0.2,0.2,0.3
+aus,Non-metallic_mineral                ,,,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Non-metallic_mineral                ,,,Non-metallic_mineral                ,99.1,100.7,117,117.6,112.4,109,122.9,123,119.4,122.6,120.6,110.8,102.8,98.1,98.1,98.5,92,92.8,92.9
+aus,Glass_products                     ,,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Black coal             ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0
+aus,Glass_products                     ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Coal byproducts        ,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+aus,Glass_products                     ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    LPG                    ,,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0,0,0,0,0,0,0
+aus,Glass_products                     ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Diesel                    ,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Glass_products                     ,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Petroleum products nec ,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0
+aus,Glass_products                     ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Natural gas            ,,,10.6,10.3,12.2,12.1,11.2,10.3,11.1,11.2,12.4,12.8,13.2,12.5,11.5,9.9,8.9,9,9.2,9.2,9.1
+aus,Glass_products                     ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,    Electricity            ,,,1.2,1.2,1.8,1.8,1.4,1.3,1.5,1.5,1.9,1.9,2.7,2.9,2.8,2.8,2.7,2.9,2.6,2.6,2.6
+aus,Glass_products                     ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Glass_products                     ,,,Glass_products                     ,12,11.8,14.3,14.1,12.9,11.8,12.8,13,14.6,14.8,16.1,15.5,14.3,12.7,11.7,12,11.9,11.9,11.7
+aus,Ceramics                                     ,,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Black coal             ,,,1.5,1.5,1.5,1.6,1.6,1.6,1.5,1.4,1.4,0.6,0.6,0.6,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+aus,Ceramics                                     ,    Brown coal             ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Ceramics                                     ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Coal byproducts        ,,,,,,,,,,,0.4,0.5,0.6,0.2,0.2,0.3,0.3,0.4,0.3,0.3,0.3
+aus,Ceramics                                     ,    Brown coal briquettes  ,,,,,,,,,,,,0,0,0,,,,,,,
+aus,Ceramics                                     ,"    Wood, woodwaste        ",,,0.9,0.9,0.9,1,1,0.9,0.9,0.9,0.9,0.7,0.7,0.5,0.5,0.7,0.7,1,0.8,0.9,0.8
+aus,Ceramics                                     ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    LPG                    ,,,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.4,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+aus,Ceramics                                     ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Kerosene and Heating oil  ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Ceramics                                     ,    Diesel                    ,,,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.5,0.4,0.3,0.4,0.5,0.5,0.6,0.5,0.6,0.6
+aus,Ceramics                                     ,    Fuel oil               ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Ceramics                                     ,    Petroleum products nec ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0
+aus,Ceramics                                     ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Natural gas            ,,,18.7,19.1,19.7,19.8,22.1,18.4,19,18.7,18.5,21.5,21.9,17.3,17.3,17.6,17.6,18.9,17.5,17.3,16.9
+aus,Ceramics                                     ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,    Electricity            ,,,3.3,3.3,3.6,3.6,3.4,2.8,3.3,3.4,3.1,3.4,1.1,1,1,1,0.9,1,1,1,1
+aus,Ceramics                                     ,    Liquid/gas Biofuels               ,,,,,,,,,,,0,0,0,0,0,0,0.2,0.3,0.2,0.2,0.3
+aus,Ceramics                                     ,,,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Ceramics                                     ,,,Ceramics,25.6,26.1,27.1,27.3,29.4,25,25.9,25.7,25.6,28,26,20.8,20.3,20.8,21.1,22.9,21.1,21,20.5
+aus,Cement_and_other,,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Black coal             ,,,19.2,19.2,24.9,25.8,24.2,24.4,25.3,26.2,25,25.1,25,23.5,22.2,20.9,19.9,18.5,19.4,19,17.8
+aus,Cement_and_other,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Coke                   ,,,,0.2,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.3,0.5,0.1,0.1,0.1,0.1,0.1
+aus,Cement_and_other,    Coal byproducts        ,,,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,,
+aus,Cement_and_other,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,"    Wood, woodwaste        ",,,,,0.2,0.2,0.2,0.2,0.2,0.2,0.9,1.1,1,1.3,1.4,1.7,1.6,1.9,2,2.2,2.8
+aus,Cement_and_other,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    LPG                    ,,,0.8,0.9,1.3,1.7,2.2,3.8,3.3,3.9,3.7,4.9,4.6,5,4.3,3.8,5.5,5.4,3.5,4,4.1
+aus,Cement_and_other,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Auto gasoline-unleaded ,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+aus,Cement_and_other,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Kerosene and Heating oil  ,,,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,,0,0,,,,
+aus,Cement_and_other,    Diesel                    ,,,0.9,0.9,1.2,1.3,1.5,1.1,1.2,1.3,0.5,1.6,0.3,0.5,0.6,0.5,0.4,0.5,0.5,0.5,0.5
+aus,Cement_and_other,    Fuel oil               ,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.1,0.1,0.2,0.2,0.2,0.2,0.2
+aus,Cement_and_other,    Petroleum products nec ,,,1,1.1,2.8,2.6,2.5,2.4,2.4,4.5,4.2,4.3,4.1,4.3,0.9,1.3,1.2,1.2,1.2,1.3,1.6
+aus,Cement_and_other,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Natural gas            ,,,17.4,17.4,22.8,23.2,18.7,19.3,29.9,25.4,26.8,25.1,27.6,24.3,23.9,21.5,21.8,21.1,18.9,18.9,19
+aus,Cement_and_other,    Town gas               ,,,,,,,,,,,,0,0,,,,,,,,
+aus,Cement_and_other,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,    Electricity            ,,,6.4,6.7,8.4,8.3,7.6,7.7,8.5,9,8.4,8.1,5.5,5.3,5.4,5.3,5.2,5.3,5.3,5.4,5.4
+aus,Cement_and_other,    Liquid/gas Biofuels               ,,,1.6,2.1,2.3,1.4,1.4,1.4,1.3,1.3,1.2,1.2,1.2,1.2,0,0,0,0,0,0,0
+aus,Cement_and_other,,,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Cement_and_other,,,Cement_and_other,48.1,49.2,64.7,65.1,59.1,61.1,72.7,72.6,71.5,71.9,69.9,65.9,59.3,55.9,56.1,54.5,51.4,51.6,51.5
+aus,Other_non-metallic_mineral,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Black coal             ,,,3.2,3.4,3.4,3.4,3.4,3.4,3.4,3.5,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Coke                   ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,,,,,,,
+aus,Other_non-metallic_mineral,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    LPG                    ,,,0.5,0.5,0.5,0.4,0.5,0.4,0.4,0.4,0.3,0.2,0.1,0.1,0.1,0.1,0.1,0,0,0,0
+aus,Other_non-metallic_mineral,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Diesel                    ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0
+aus,Other_non-metallic_mineral,    Fuel oil               ,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,,,,,,,
+aus,Other_non-metallic_mineral,    Petroleum products nec ,,,0.2,0.2,,,,,,,,,,,0,0,0,0,0,0,0
+aus,Other_non-metallic_mineral,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Natural gas            ,,,6.6,6.7,3.9,4,4.1,4.2,4.4,4.4,4.6,4.2,4.9,4.8,5.6,5.6,6.1,5.9,4.9,5.8,6.4
+aus,Other_non-metallic_mineral,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,    Electricity            ,,,2.5,2.5,2.8,2.9,2.7,2.8,2.9,3,2.7,3.2,3.3,3.4,3.2,3,2.9,3.1,2.7,2.5,2.7
+aus,Other_non-metallic_mineral,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_non-metallic_mineral,,,Other_non-metallic_mineral,13.4,13.6,10.9,11,11,11.1,11.4,11.7,7.8,7.9,8.7,8.6,8.9,8.7,9.1,9.1,7.6,8.3,9.1
+aus,Iron_and_steel                               ,,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Black coal             ,,,133.2,134.6,145.9,156.4,158.9,157.5,158.8,160.9,120.7,156,158.7,135.6,130.9,118.9,112,113.1,113.2,109.9,102.5
+aus,Iron_and_steel                               ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Coke                   ,,,77.1,73.7,66.9,72.4,69.3,68.3,69.3,70.3,59.4,71.7,75.1,55.2,52.3,51.1,52.3,52.6,53.4,54.7,52.5
+aus,Iron_and_steel                               ,    Coal byproducts        ,,,53.2,54.7,60.2,64.1,57.9,59.9,61.3,63.9,38.9,49.8,51.9,38.7,40.1,37.9,37.6,38.1,39.3,38.1,35.7
+aus,Iron_and_steel                               ,    Brown coal briquettes  ,,,,,,,,,,,1.3,1,1.1,1.3,1.2,0.9,,,,,
+aus,Iron_and_steel                               ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    LPG                    ,,,0.3,0.4,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0,0,0
+aus,Iron_and_steel                               ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Auto gasoline-unleaded ,,,,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Iron_and_steel                               ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Diesel                    ,,,1.2,1.2,0.6,0.7,0.7,0.8,0.8,0.9,0.4,0.4,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.6
+aus,Iron_and_steel                               ,    Fuel oil               ,,,1.1,1.1,1.1,1,1.1,0.9,0.9,0.9,0,0.4,0.4,0.2,0.1,0.2,0.2,0.1,0.1,0.1,0.1
+aus,Iron_and_steel                               ,    Petroleum products nec ,,,,,,,,,,,0.7,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,1,0.7
+aus,Iron_and_steel                               ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Natural gas            ,,,49.3,49.5,22.7,22.3,24.5,23.9,25.9,26.3,21.9,18.8,15.7,16.8,14.7,13.4,14,14.1,12.9,14,13.8
+aus,Iron_and_steel                               ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,    Electricity            ,,,21.6,22.2,11.8,12,13.9,13.1,13.9,13.8,13,13.3,15.7,13,13.1,12.9,13,12.6,13.3,13.9,13.4
+aus,Iron_and_steel                               ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Coke                   ,,94.9,92.9,89.1,95.5,95,90.8,90.7,90.7,67.5,85.5,91.4,80.6,84.8,78.8,71.9,73,70.8,68.1,62.6
+aus,Iron_and_steel                               ,,    Coal byproducts        ,,61.7,61.2,56.7,60.9,64.2,64.6,62.8,64.3,51.8,61.9,63.7,49.4,46.4,44.3,43.7,44.2,45.5,44.1,41.3
+aus,Iron_and_steel                               ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Petroleum products nec ,,,,,,,,,,0.6,0.7,0.9,0.8,0.8,0.7,0.7,0.7,0.8,0.8,0.9
+aus,Iron_and_steel                               ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Town gas /Hydrogen,,,,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,    Thermal electricity    ,,1.5,1.5,,,,,,,,,,,,,,,,,
+aus,Iron_and_steel                               ,,,Iron_and_steel                               ,179,181.7,163.6,172.7,167.1,169.2,177.5,182.1,136.6,163.4,163.2,130.8,121.3,112.3,113.5,113.4,115.9,119.3,114.6
+aus,Basic_non-ferrous_metals                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Black coal             ,,,53.8,53.8,46.9,47.7,53.5,52.8,55.4,58.8,55.5,51.2,42.9,43.7,51.3,55.6,55.3,62.5,63.3,63.5,61.3
+aus,Basic_non-ferrous_metals                 ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Coke                   ,,,5.5,6.5,2.8,2.9,2.9,2.9,2.6,2.8,2.9,2.7,2.5,2.6,3.1,3.3,3.1,3,3.1,2.9,3
+aus,Basic_non-ferrous_metals                 ,    Coal byproducts        ,,,,,1.1,1.1,1.1,1.2,1.1,1.2,,,,,0.5,0.5,0.5,0.3,0.2,0.2,0.3
+aus,Basic_non-ferrous_metals                 ,    Brown coal briquettes  ,,,,,,,,,,,,0,0.1,0,,,,,,,
+aus,Basic_non-ferrous_metals                 ,"    Wood, woodwaste        ",,,2.3,2.3,2.3,2.3,2.3,2.3,2.3,2.4,1.9,1.3,1.3,1.5,2.3,2.3,2,1.9,2.7,1.9,1.9
+aus,Basic_non-ferrous_metals                 ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    LPG                    ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0.1,0.1,0.1,0.1,0.1,0,0,0.1,0.1,0
+aus,Basic_non-ferrous_metals                 ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Auto gasoline-unleaded ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Basic_non-ferrous_metals                 ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Kerosene and Heating oil  ,,,0,0,0,0,0,0,0,0,,,0.1,0,0,0,0,0,0,0,0
+aus,Basic_non-ferrous_metals                 ,    Diesel                    ,,,2.6,2.7,5.1,4.7,4.7,4.4,5.9,9.6,6,4.2,4.4,5.1,5.2,5.5,2.9,2.4,2.3,2.3,2.1
+aus,Basic_non-ferrous_metals                 ,    Fuel oil               ,,,30.6,30.5,30.9,30.4,30.2,32.1,30.2,33.1,27.3,29.8,29.3,29.5,28.4,21.5,7.1,4.5,0.8,0.8,1.1
+aus,Basic_non-ferrous_metals                 ,    Petroleum products nec ,,,16.5,16.9,20.9,21.2,23.1,21.6,21.2,21.3,21,21.6,40.5,49.7,37.8,38.3,31.1,29,27.5,28.1,29
+aus,Basic_non-ferrous_metals                 ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Natural gas            ,,,117.2,118.1,121.3,126,136.8,140.4,145.1,139.6,130.7,122.4,123.9,134.1,145.2,149.1,131.5,127.5,126.1,125.1,123.3
+aus,Basic_non-ferrous_metals                 ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,    Electricity            ,,,157.9,158,127.5,128.4,133.9,132.3,138.4,136.8,144.3,150.5,138.6,138.3,132.7,131.6,116.1,117.9,110.5,112.6,112
+aus,Basic_non-ferrous_metals                 ,    Liquid/gas Biofuels               ,,,,,,,,,,,0,0,0.5,0.6,0.1,0,0,,,,
+aus,Basic_non-ferrous_metals                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Petroleum products nec ,,,,,,,,,,0.3,0.9,0.7,0.9,1,1,1,0.7,0.8,0.8,0.8
+aus,Basic_non-ferrous_metals                 ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Town gas /Hydrogen,,,,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,    Thermal electricity    ,,16.7,14.9,,,,,,,,,,,,,,,,,
+aus,Basic_non-ferrous_metals                 ,,,Basic_non-ferrous_metals                 ,360.9,365.2,358.9,364.9,388.7,389.8,402.4,405.7,389.3,382.8,383.4,404.2,405.7,406.7,348.7,348.4,335.9,336.6,333.1
+aus,Fabricated_metal,,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    LPG                    ,,,0.4,0.4,0.3,0.4,0.4,0.5,0.5,0.6,0.6,0.6,0.7,0.7,0.6,0.6,0.6,0.6,0.7,0.7,0.7
+aus,Fabricated_metal,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Auto gasoline-unleaded ,,,,,0,0,,,,,0,0,0,0,0,,,,,,
+aus,Fabricated_metal,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Kerosene and Heating oil  ,,,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+aus,Fabricated_metal,    Diesel                    ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0.1,0,0,0,0,0,0,0,0,0
+aus,Fabricated_metal,    Fuel oil               ,,,,,,0,0,0,0,0,0,0,0,,,,,,,,
+aus,Fabricated_metal,    Petroleum products nec ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0
+aus,Fabricated_metal,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Natural gas            ,,,2,2,2.5,2.5,2.5,1.8,1.9,2,2,2,2,2.3,2.2,2,1.8,1.7,1.7,1.7,1.7
+aus,Fabricated_metal,    Town gas               ,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+aus,Fabricated_metal,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,    Electricity            ,,,6.1,5.9,6.7,6.7,6.4,5.4,5.3,5.4,5.7,5.4,6,5.8,5.3,5.7,5.6,5.1,4.6,4.3,4.2
+aus,Fabricated_metal,    Liquid/gas Biofuels               ,,,,,,,,,,,,0,,,,,,,,,
+aus,Fabricated_metal,,,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Fabricated_metal,,,Fabricated_metal,8.6,8.3,9.5,9.7,9.3,7.7,7.8,8,8.3,8.2,8.8,8.9,8.2,8.4,8,7.5,7,6.6,6.5
+aus,Machinery_equipment,,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    LPG                    ,,,0.8,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.6,0.8,0.8,0.7,0.5,0.5,0.4,0.3,0.2
+aus,Machinery_equipment,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Auto gasoline-unleaded ,,,,,,,,,,,0,0.1,0,0,0,0,0,0,0,0,0
+aus,Machinery_equipment,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Kerosene and Heating oil  ,,,0,0,0,0,0,0,0,0,,,,,,,,,,,
+aus,Machinery_equipment,    Diesel                    ,,,0.1,0.1,0.1,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,1,0.6,0.6,0.6,0.5,0.6,0.6,0.5
+aus,Machinery_equipment,    Fuel oil               ,,,,,,,,,,,,,,,,0,0,0,0,0,0
+aus,Machinery_equipment,    Petroleum products nec ,,,,,,,,,,,0,0,0.1,0.1,0.1,0.1,0,0,0,0,0
+aus,Machinery_equipment,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Natural gas            ,,,5.1,5.1,5,5.1,5.2,4.4,4.8,4.8,5.2,5.1,5.4,4.8,4.3,3.5,3.2,2.7,2.4,1.1,0.6
+aus,Machinery_equipment,    Town gas               ,,,,,,,,,,,0.6,0,0,0,,,,,,,
+aus,Machinery_equipment,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,    Electricity            ,,,9.2,9.2,10.4,10.7,10.2,9.9,10.3,9.9,9.5,9,7.9,8.1,7.5,7.1,7.1,6.8,6,5.5,4.8
+aus,Machinery_equipment,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,0,0,0,0,,
+aus,Machinery_equipment,,,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Machinery_equipment,,,Machinery_equipment,15.2,15.2,16.2,17.4,17,15.8,16.7,16.3,16.9,15.8,14.9,14.7,13.3,12,11.5,10.6,9.4,7.4,6.2
+aus,Furniture,,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Black coal             ,,,,,0.7,0.7,0.7,0.7,0.7,0.6,,,,,,,,,,,
+aus,Furniture,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    LPG                    ,,,,,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Furniture,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,0,0,0,,,,
+aus,Furniture,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Kerosene and Heating oil  ,,,0,0,,,,,,,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0
+aus,Furniture,    Diesel                    ,,,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0.1
+aus,Furniture,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Natural gas            ,,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Furniture,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,    Electricity            ,,,0.3,0.5,0.4,0.4,0.8,0.8,0.9,0.9,1,0.1,1,1,0.9,0.8,0.9,0.8,0.8,0.7,0.7
+aus,Furniture,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Furniture,,,Furniture,0.6,0.8,1.4,1.4,1.8,1.8,1.9,1.9,1.4,0.5,1.5,1.5,1.2,1.1,1.2,1.1,1.1,1,1
+aus,Electricity_gas_water_serv,,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,    Black coal             ,,,1176.1,1213.7,1176.2,1245.1,1279.5,1304,1325.4,1297.4,1361.2,1223.2,1146.2,1123.3,1084.7,1024,1045.7,1111.3,1148.8,1176.1,1160.5
+aus,Electricity_gas_water_serv,    Brown coal             ,,,657.8,661.6,685.9,704.7,701.4,717.2,714.4,718,743.5,737,722.6,732.8,639.6,621.8,668.1,642.8,576.2,466.8,443.2
+aus,Electricity_gas_water_serv,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,    Coal byproducts        ,,,5.3,5.5,10.3,9.7,9.6,10.7,10.2,8.5,7.2,7.8,8.6,8.1,,,,,,,
+aus,Electricity_gas_water_serv,    Brown coal briquettes  ,,,2.7,2.9,2.2,1.2,1.4,1.2,1.5,1.7,1.4,1.2,1.2,1.4,1.1,0.9,0.7,0.5,0.2,,
+aus,Electricity_gas_water_serv,"    Wood, woodwaste        ",,,4.2,3.7,2.2,2.9,3.2,3.2,3.3,4.1,3.4,3.8,3.1,2.3,12.1,13.4,14.7,17.2,18.3,17.2,18.3
+aus,Electricity_gas_water_serv,    Bagasse                ,,,,,63.8,68,72.9,73.7,74.8,75.7,18.2,15,9.5,10.8,8.1,11.8,14.5,16.5,15.6,16.6,14.4
+aus,Electricity_gas_water_serv,    Crude Oil and Other Refinery Feedstock,,,,,0,0,0,0,0,0,1.4,0.8,1,1.1,0.2,0.7,0.4,0.3,1,0.8,1.3
+aus,Electricity_gas_water_serv,    LPG                    ,,,1,1.1,0.9,1.2,1.4,1.5,1,0.8,0.6,0.4,0.3,0.3,0,0.3,0,0.3,0.1,0,0
+aus,Electricity_gas_water_serv,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,    Auto gasoline-unleaded ,,,,,,,,,,,,,0,0,0,0,0.1,0,0,0.1,0
+aus,Electricity_gas_water_serv,    Aviation gasoline      ,,,0.9,0.9,,,,,,,,,,0,,,,,,,
+aus,Electricity_gas_water_serv,    Aviation turbine fuel  ,,,,,0,0.1,0.1,0.1,0.1,0.1,,,,,,0,,,,,
+aus,Electricity_gas_water_serv,    Kerosene and Heating oil  ,,,1.8,1.8,0,0,0,0,0,0,0.4,0.1,0,0.1,0.8,0.2,0.4,0.8,1,0.2,0.2
+aus,Electricity_gas_water_serv,    Diesel                    ,,,11.1,11.4,20.7,26.2,28,30.9,29.4,42.5,31.2,28.2,27.5,30.6,31.8,40.1,55.2,50.1,49.4,48,47
+aus,Electricity_gas_water_serv,    Fuel oil               ,,,3.4,3.3,5.7,6.8,6.6,6.4,5.9,6.9,6.4,5.9,5.8,5.8,5.6,6.8,2.5,2.1,1.7,1.8,1.9
+aus,Electricity_gas_water_serv,    Petroleum products nec ,,,2.5,2.4,2,2,1.9,1.8,2.2,3.6,1.3,1.1,1,2.5,0.5,2.6,2.9,2.2,2.3,1.6,2.3
+aus,Electricity_gas_water_serv,    Solvents               ,,,,,,,,,,,,,,,,,,0,0,,0
+aus,Electricity_gas_water_serv,    Lubricants and greases   ,,,,,,,,,,,,,,,,0.2,0.4,0,0.2,,0
+aus,Electricity_gas_water_serv,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,    Natural gas            ,,,257.6,264.7,240.9,259.9,264,252.8,345.9,378.6,464.8,465.2,480.6,526.5,530.5,542,564.6,573.8,555.6,579.3,575.1
+aus,Electricity_gas_water_serv,    Town gas               ,,,,,0,0,0,0,0,0,0,0,0,0,,,,,,,0
+aus,Electricity_gas_water_serv,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,    Electricity            ,,,110.3,111.4,111.2,123.2,117.4,119,121.9,120.8,125.7,123.8,118.1,116.8,108.6,107,108,113.3,112.7,111.3,111.1
+aus,Electricity_gas_water_serv,    Liquid/gas Biofuels               ,,,,,8.4,8.7,7.3,8,7.9,10.6,12.3,12.2,13.4,14.5,13.3,15.8,15.9,14.7,14.3,15.1,15.3
+aus,Electricity_gas_water_serv,,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_gas_water_serv,,    Town gas               ,,1,1,1,1,1.1,1,0.8,0.6,0.4,0.3,0.2,0.2,,,,,,,
+aus,Electricity_gas_water_serv,,    Thermal electricity    ,,701.8,714.9,737.5,765.6,763.5,774,813.3,820.6,834,839.7,825,817.7,790.8,777.4,799,803.1,795.8,791.8,775.8
+aus,Electricity_gas_water_serv,,,Electricity_gas_water_serv,1532,1568.3,1591.9,1693,1730.2,1755.3,1829.8,1847.9,1944.5,1785.6,1713.8,1759.1,1646.2,1610.3,1695.2,1742.9,1701.6,1643,1614.8
+aus,Electricity_supply,,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,    Black coal             ,,,1176.1,1213.7,1176.2,1245.1,1279.5,1304,1325.4,1297.4,1361.2,1223.2,1146.2,1123.3,1084.7,1024,1045.7,1111.3,1148.8,1176.1,1160.5
+aus,Electricity_supply,    Brown coal             ,,,657.8,661.6,685.9,704.7,701.4,717.2,714.4,718,743.5,737,722.6,732.8,639.6,621.7,667.9,642.7,575.8,466.4,442.8
+aus,Electricity_supply,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,    Coal byproducts        ,,,5.3,5.5,10.3,9.7,9.6,10.7,10.2,8.5,7.2,7.8,8.6,8.1,,,,,,,
+aus,Electricity_supply,    Brown coal briquettes  ,,,2.7,2.9,2.2,1.2,1.4,1.2,1.5,1.7,1.4,1.2,1.2,1.4,1.1,0.9,0.7,0.5,0.2,,
+aus,Electricity_supply,"    Wood, woodwaste        ",,,4.2,3.7,2.2,2.9,3.2,3.2,3.3,4.1,3.4,3.8,3.1,2.3,12.1,13.4,14.7,17.2,18.3,17.2,18.3
+aus,Electricity_supply,    Bagasse                ,,,,,63.8,68,72.9,73.7,74.8,75.7,18.2,15,9.5,10.8,8.1,11.8,14.5,16.5,15.6,16.6,14.4
+aus,Electricity_supply,    Crude Oil and Other Refinery Feedstock,,,,,0,0,0,0,0,0,1.4,0.8,1,1.1,0.2,0.6,0.4,0.3,1,0.8,1.3
+aus,Electricity_supply,    LPG                    ,,,0.1,0.1,0.1,0,0,0.1,0.1,0.1,0,0,0,0,0,0.2,0,0.3,0,0,0
+aus,Electricity_supply,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,    Auto gasoline-unleaded ,,,,,,,,,,,,,,0,0,0,0.1,0,0,0,0
+aus,Electricity_supply,    Aviation gasoline      ,,,0.9,0.9,,,,,,,,,,0,,,,,,,
+aus,Electricity_supply,    Aviation turbine fuel  ,,,,,0,0.1,0.1,0.1,0.1,0.1,,,,,,0,,,,,
+aus,Electricity_supply,    Kerosene and Heating oil  ,,,1.8,1.8,0,0,0,0,0,0,0.4,0.1,0,0.1,0.8,0.2,0.4,0.8,1,0.1,0.2
+aus,Electricity_supply,    Diesel                    ,,,10.5,10.7,20.2,25.7,27.5,30.3,28.8,41.8,30.1,27.1,26.8,29.7,30.9,39.3,54.4,49.3,48.6,46.9,45.7
+aus,Electricity_supply,    Fuel oil               ,,,3.4,3.3,5.7,6.8,6.6,6.4,5.9,6.8,6.4,5.9,5.8,5.8,5.5,6.7,2.3,1.9,1.5,1.6,1.8
+aus,Electricity_supply,    Petroleum products nec ,,,2.5,2.4,2,2,1.9,1.8,2.2,3.6,0.6,0.3,0.1,0,0,2.6,2.9,2.2,2.3,1.6,2.3
+aus,Electricity_supply,    Solvents               ,,,,,,,,,,,,,,,,,,0,0,,0
+aus,Electricity_supply,    Lubricants and greases   ,,,,,,,,,,,,,,,,0.2,0.4,0,0.2,,0
+aus,Electricity_supply,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,    Natural gas            ,,,241.7,247.2,224.9,241.7,250.3,239,334.9,367.6,453.6,454.2,468.9,514.6,517.5,530.3,553.3,562.6,549.4,572.3,567.8
+aus,Electricity_supply,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,    Electricity            ,,,102.7,104.2,102.6,114.1,108.5,109.7,112.2,109.3,115.3,113.9,108.5,107.1,99,96.2,97.8,101.5,101.4,99.2,97.5
+aus,Electricity_supply,    Liquid/gas Biofuels               ,,,,,8.2,8.5,6.8,7.4,7.3,9.9,12,11.9,12.6,13.3,11.7,14,14.2,14.2,13.7,14.6,14.9
+aus,Electricity_supply,,,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Electricity_supply,,    Thermal electricity    ,,701.8,714.9,737.5,765.6,763.5,774,813.3,820.6,834,839.7,825,817.7,790.8,777.4,799,803.1,795.8,791.8,775.8
+aus,Electricity_supply,,,Electricity_supply,1513.3,1548,1566.7,1664.8,1706.4,1730.7,1807.8,1823.9,1920.7,1762.5,1689.8,1732.8,1620.6,1584.7,1670.9,1718.3,1682,1621.6,1591.7
+aus,Gas_supply            ,,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,0,0,0,0,,,
+aus,Gas_supply            ,    LPG                    ,,,1,1,0.9,1.1,1.4,1.4,0.9,0.7,0.5,0.4,0.3,0.2,0,0,0,0,0,0,0
+aus,Gas_supply            ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+aus,Gas_supply            ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,0,,,,
+aus,Gas_supply            ,    Diesel                    ,,,0,0,,,,,,,,,,,0,0,0,0,0,0,0
+aus,Gas_supply            ,    Fuel oil               ,,,,,,,,,,,,,,,0,0,0,,,,
+aus,Gas_supply            ,    Petroleum products nec ,,,,,,,,,,,,,,,,,0,,,,0
+aus,Gas_supply            ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Natural gas            ,,,15.3,16.8,15.5,17.6,13.1,13.2,10.3,10.4,10.1,10.2,10.8,10.7,12.5,11,9.9,10,4.9,6,6.1
+aus,Gas_supply            ,    Town gas               ,,,,,0,0,0,0,0,0,0,0,0,0,,,,,,,
+aus,Gas_supply            ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,    Electricity            ,,,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0,0,0.1,0.2,0.1,0.2,0.3,0.2,0.5
+aus,Gas_supply            ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,0,,0,,,,
+aus,Gas_supply            ,,,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,    Town gas               ,,1,1,1,1,1.1,1,0.8,0.6,0.4,0.3,0.2,0.2,,,,,,,
+aus,Gas_supply            ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Gas_supply            ,,,Gas_supply            ,15.3,16.9,15.4,17.8,13.4,13.7,10.5,10.5,10.2,10.2,10.9,10.8,12.6,11.2,10.1,10.2,5.2,6.3,6.6
+aus,Water_supply_services                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Brown coal             ,,,,,,,,,,,,,,,,0.1,0.1,0.2,0.4,0.4,0.5
+aus,Water_supply_services                 ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    LPG                    ,,,,,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0.1,0,0
+aus,Water_supply_services                 ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Auto gasoline-unleaded ,,,,,,,,,,,,,0,0,0,0,0,0,0,0.1,0
+aus,Water_supply_services                 ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Kerosene and Heating oil  ,,,0,0,,,,,,,,,,,,0,0,0,0,0,0
+aus,Water_supply_services                 ,    Diesel                    ,,,0.6,0.7,0.5,0.5,0.5,0.6,0.6,0.6,1.1,1.1,0.7,0.9,0.9,0.8,0.8,0.8,0.8,1.2,1.2
+aus,Water_supply_services                 ,    Fuel oil               ,,,,,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.1,0.2,0.2,0.2,0.1
+aus,Water_supply_services                 ,    Petroleum products nec ,,,,,,,,,,,0.7,0.7,1,2.4,0.4,0,0,0,0,0,0
+aus,Water_supply_services                 ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Natural gas            ,,,0.6,0.7,0.5,0.6,0.6,0.6,0.6,0.6,1.1,0.8,1,1.2,0.6,0.7,1.4,1.2,1.4,0.9,1.2
+aus,Water_supply_services                 ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,0
+aus,Water_supply_services                 ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,    Electricity            ,,,7.6,7.2,8.6,9.1,8.8,9.2,9.7,11.5,10.4,9.9,9.6,9.8,9.5,10.7,10.1,11.6,11,11.9,13.1
+aus,Water_supply_services                 ,    Liquid/gas Biofuels               ,,,,,0.2,0.2,0.5,0.6,0.6,0.7,0.3,0.3,0.8,1.2,1.5,1.8,1.7,0.5,0.6,0.5,0.4
+aus,Water_supply_services                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Water_supply_services                 ,,,Water_supply_services                 ,8.8,8.5,9.8,10.4,10.4,11,11.5,13.4,13.6,12.9,13.1,15.5,13,14.5,14.2,14.5,14.4,15.2,16.5
+aus,Construction                              ,,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Black coal,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    LPG                    ,,,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.3,0.6,0.2,0.2,0.2,0.2
+aus,Construction                              ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Auto gasoline-unleaded ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aus,Construction                              ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Kerosene and Heating oil  ,,,0.3,0.8,0.8,0.7,0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+aus,Construction                              ,    Diesel                    ,,,25.3,24.3,23.5,23.3,22.9,22,22,22,21.5,21.1,21.1,20.9,20.6,20.4,20.1,19.9,19.6,20.7,19.7
+aus,Construction                              ,    Fuel oil               ,,,0.1,0.3,0.3,0.3,0.9,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.4,0.4,0.4,0.4
+aus,Construction                              ,    Petroleum products nec ,,,,,,,,,,,,,,,,,0.7,0,0,,0
+aus,Construction                              ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Natural gas            ,,,2.1,2.4,2.5,2.6,3.1,3.1,3.1,3.1,3.1,3,3,2.9,2.9,2.9,2.9,2.9,2.9,3.3,2.8
+aus,Construction                              ,    Town gas               ,,,,,,,,,,,,,,,,0,,,,,
+aus,Construction                              ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,    Electricity            ,,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.5,0.6,0.6,0.7,0.8,1,0.9
+aus,Construction                              ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,0,0,0,0,0,0
+aus,Construction                              ,,,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Construction                              ,,,Construction                              ,28.2,28.4,27.7,27.4,27.8,26.3,26.3,26.4,25.8,25.3,25.3,25.1,24.9,25,25.6,24.4,24.2,25.9,24.3
+aus,Commercial_services,,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Black coal              ,,,1.3,1.2,1.3,1.3,1.3,0.9,0.9,0.7,0.7,0.6,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.1,
+aus,Commercial_services,    Brown coal              ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Coke                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Brown coal briquettes   ,,,2.7,2.6,2.6,1.3,1.7,1.4,1.1,1,0.8,0.8,0.8,0.8,0.8,0.9,,,,,
+aus,Commercial_services,"    Wood, woodwaste         ",,,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.2
+aus,Commercial_services,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    LPG                     ,,,4.3,3.3,3.2,4.2,3.1,3,3,3.1,3.2,3.2,3.3,3.3,3.5,3.5,3.7,3.5,4.1,2.8,1.4
+aus,Commercial_services,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Aviation gasoline       ,,,,,0,0,0,0,0,,,,,,,,,,,,
+aus,Commercial_services,    Aviation turbine fuel   ,,,,,0,0,0,0,0,,,,,,0,0,0,,,,
+aus,Commercial_services,    Kerosene and Heating oil  ,,,0.2,0.7,0.4,0.4,0.4,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0
+aus,Commercial_services,    Diesel                    ,,,14.3,16.5,15.6,16.5,17.6,20.9,21.5,22.4,22.7,22.8,24.3,24.9,26.2,27.3,27.8,28.5,29.3,30.4,28.3
+aus,Commercial_services,    Fuel oil                ,,,0.3,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aus,Commercial_services,    Petroleum products nec ,,,,,,,,,,,,,0,0.1,0.1,0.1,0.1,0.1,0,,
+aus,Commercial_services,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,    Natural gas             ,,,42.7,43.2,43.5,43.8,44,42.6,42.5,43.2,45.5,47.8,49.7,49.5,50,54,55.1,57.2,57.9,59.1,58.6
+aus,Commercial_services,    Town gas                ,,,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0
+aus,Commercial_services,    Solar energy            ,,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.5
+aus,Commercial_services,    Electricity             ,,,148.6,154.5,183.1,187.3,187.3,189.2,202.2,202.9,204.6,208.1,211.4,206.6,213.8,214.5,231.7,232,237.5,240.2,243.6
+aus,Commercial_services,    Liquid/gas Biofuels               ,,,,,,,,,,,,,0,0,0.4,0.6,0.6,0.1,0,0,0
+aus,Commercial_services,,,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,    Thermal electricity    ,,0.7,0.7,,,,,,,,,,,,,,,,,
+aus,Commercial_services,,,Commercial_services,214.5,222.2,250.7,255.9,256.4,259.4,272.6,274.5,278.6,284.4,291,286.6,296,302.1,320.3,322.7,330.1,333.9,332.6
+aus,Transport_postal,,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Black coal             ,,,4.9,5,5,5.8,8,6.9,7.4,8,4.9,4.1,2.9,2.5,0,0,0,0,0,,
+aus,Transport_postal,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    LPG                    ,,,57.3,56.5,66.3,66,60.9,68.4,62,59.8,58.5,54.4,52.8,51.9,51.7,52.4,51.3,44.8,34.2,20.5,16.1
+aus,Transport_postal,    Auto gasoline-leaded   ,,,80.2,57.5,38.4,16.2,,,0,0,,,,,,,,,,,
+aus,Transport_postal,    Auto gasoline-unleaded ,,,505.6,540.5,584,630.2,645.8,642.9,648.1,648.6,642.1,643.8,651,639.3,635.9,617.6,618.5,616.4,636.7,610.7,601.2
+aus,Transport_postal,    Aviation gasoline      ,,,3.1,3.1,3.1,3.1,3,3.9,3,2.9,3.2,2.6,2.6,2.8,2.7,2.4,2.3,2.2,2.3,2.2,2.2
+aus,Transport_postal,    Aviation turbine fuel  ,,,191.7,162.3,156.2,176.8,199.4,205.5,226.9,233.1,237.9,252.5,260.1,270,286.6,300.9,300,313.7,328.8,345,347.6
+aus,Transport_postal,    Kerosene and Heating oil  ,,,0,0,,,,,,,,,0,,0,0,0,0,0,0,0
+aus,Transport_postal,    Diesel                    ,,,313.8,330.8,345.5,360.1,373.6,390.6,406.1,426.6,440.9,464.5,488.8,508.3,528.4,547.2,579.2,600.2,621.1,671.8,696
+aus,Transport_postal,    Fuel oil               ,,,39,40,38.5,41.1,37.8,38.7,38.7,42.7,40.5,33.7,29.9,35.9,27.2,30.9,23,23.6,23.8,24,34.9
+aus,Transport_postal,    Petroleum products nec ,,,,,,,,,,,0.3,0.3,0.1,0.1,0.1,0.1,0.2,0.1,0.2,0,0
+aus,Transport_postal,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Natural gas            ,,,13.6,15.5,16.6,15.7,16.9,18,18.6,19,14,13.9,13.2,13.4,14.3,13.8,14.7,16.8,17.3,19.2,21.5
+aus,Transport_postal,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,    Solar energy           ,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0
+aus,Transport_postal,    Electricity            ,,,8.5,8.3,12.3,12.8,12.5,13.4,13.9,14.6,12.3,13.5,14.1,15,17.9,18.4,20.4,21.7,21.2,21.5,22.5
+aus,Transport_postal,    Liquid/gas Biofuels               ,,,,,,,,,1,2.8,5.7,7.4,8.7,8.5,9.2,8.5,6.4,5.9,5.7,6.2,6.3
+aus,Transport_postal,,,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Transport_postal,,,Transport_postal,1215.2,1217,1265.9,1327.8,1358.1,1388.2,1425.7,1458,1460.1,1490.8,1524.4,1547.6,1574,1592.2,1615.9,1645.5,1691.4,1720.9,1748.4
+aus,Road_transport                                ,,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    LPG                    ,,,56.2,55.3,66.3,66,60.9,68.4,61.9,59.7,58.1,54,52.6,51.6,51.5,52.2,51.1,44.6,34,20.3,15.8
+aus,Road_transport                                ,    Auto gasoline-leaded   ,,,84.1,60.6,38.4,16.2,,,0,0,,,,,,,,,,,
+aus,Road_transport                                ,    Auto gasoline-unleaded ,,,512.1,548.8,573.6,619.2,634.5,632.2,637.3,637.6,630.4,631.8,638.6,626.7,623,605.1,605.8,603.5,623.6,597.7,589.2
+aus,Road_transport                                ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Diesel                    ,,,280.5,294.3,307.5,320.9,332.3,344.3,360.2,374.7,391.6,412.6,435.1,454.4,471,488.1,512,531.5,551,599.8,616.2
+aus,Road_transport                                ,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Natural gas            ,,,0.9,1.1,1.2,1.2,1.5,1.5,1.6,1.7,2,2.2,2.4,3,3,3.1,4,4.3,3.9,3.6,3.5
+aus,Road_transport                                ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,    Electricity            ,,,,,,,,,,,,,,,,,0,0,0,0.1,0.1
+aus,Road_transport                                ,    Liquid/gas Biofuels               ,,,,,,,,,1,2.8,5.6,7.4,8.7,8.5,9.2,8.4,6.3,5.8,5.7,6.1,6.3
+aus,Road_transport                                ,,,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Road_transport                                ,,,Road_transport                                ,933.5,959.7,986.9,1023.5,1029.1,1046.4,1062,1076.5,1087.7,1107.9,1137.4,1144.3,1157.6,1157,1179.3,1189.8,1218.2,1227.6,1231
+aus,Rail_transport                             ,,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Black coal             ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+aus,Rail_transport                             ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    LPG                    ,,,,,,,,,,0,0.1,0.1,0,0,0,0,0,0,0,0,0
+aus,Rail_transport                             ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Auto gasoline-unleaded ,,,,,,,,,,,0.2,0.2,0.3,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0
+aus,Rail_transport                             ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Kerosene and Heating oil  ,,,0,0,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Diesel                    ,,,21.4,22.4,23.4,26,27.1,27.1,27.7,33.1,34.4,34,35.1,38.9,41.8,42.9,46.3,47.8,49.9,51,52
+aus,Rail_transport                             ,    Fuel oil               ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0
+aus,Rail_transport                             ,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Natural gas            ,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+aus,Rail_transport                             ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,    Electricity            ,,,7.3,7.2,8.1,8.6,8.3,8.6,8.9,9.2,7.3,7.8,8,8.3,11,11.1,11.5,12.4,11.7,11.6,11.7
+aus,Rail_transport                             ,    Liquid/gas Biofuels               ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0
+aus,Rail_transport                             ,,,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Rail_transport                             ,,,Rail_transport                             ,28.7,29.7,31.6,34.6,35.4,35.7,36.6,42.3,42,42.2,43.5,47.5,53,54.3,58,60.4,61.7,62.8,63.8
+aus,Water_transport                               ,,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Black coal             ,,,4.9,5,5,5.8,8,6.9,7.4,8,4.8,4.1,2.9,2.5,,,,,,,
+aus,Water_transport                               ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    LPG                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Auto gasoline-unleaded ,,,,,10.5,11,11.3,10.7,10.8,10.9,11.1,11.4,11.6,11.9,12.4,12,12.2,12.5,12.8,12.7,11.7
+aus,Water_transport                               ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Diesel                    ,,,7.8,9.8,10.1,8.5,9.4,12.8,11.5,11.5,10.8,13.6,14.4,9.7,10.3,10,12.7,12.4,12.6,13.6,20.1
+aus,Water_transport                               ,    Fuel oil               ,,,39,40,38.5,41.1,37.8,38.7,38.7,42.7,40.5,33.6,29.9,35.9,27.2,30.9,22.9,23.5,23.8,23.9,34.8
+aus,Water_transport                               ,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Natural gas            ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2
+aus,Water_transport                               ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Electricity            ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Water_transport                               ,,,Water_transport                               ,51.8,54.9,64.1,66.5,66.6,69.2,68.5,73.2,67.3,62.9,59,60.1,50,53.1,47.9,48.6,49.3,50.4,66.8
+aus,Of which international bunkers,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    LPG                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Diesel                    ,,,4.7,6.6,7.1,5.3,5.7,8.9,3.3,3,1.8,1.4,1.3,1.7,1.3,1.5,2.5,2.1,2.2,2.5,3.5
+aus,Of which international bunkers,    Fuel oil               ,,,31.3,32.7,31.3,33.3,30.7,32.3,31.7,36,34.5,27.1,24.1,31.6,25.2,28.9,20.7,21,21.5,21.6,29
+aus,Of which international bunkers,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Natural gas            ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Electricity            ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international bunkers,,,Of which international bunkers,36,39.4,38.3,38.6,36.4,41.1,35,39,36.3,28.5,25.4,33.2,26.5,30.4,23.2,23.1,23.7,24.1,32.5
+aus,Of which coastal bunkers,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Black coal             ,,,4.9,5,5,5.8,8,6.9,7.4,8,4.8,4.1,2.9,2.5,  ,  ,  ,  ,  ,  ,  
+aus,Of which coastal bunkers,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    LPG                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Auto gasoline-unleaded ,,,,,10.5,11,11.3,10.7,10.8,10.9,11.1,11.4,11.6,11.9,12.4,12,12.2,12.5,12.8,12.7,11.7
+aus,Of which coastal bunkers,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Diesel                    ,,,3.2,3.3,3,3.3,3.6,4,8.2,8.4,8.9,12.2,13.1,8,9,8.5,10.2,10.3,10.5,11.2,16.6
+aus,Of which coastal bunkers,    Fuel oil               ,,,7.9,7.3,7.2,7.8,7.1,6.4,7.1,6.7,6,6.5,5.8,4.3,2,2,2.2,2.5,2.3,2.3,5.8
+aus,Of which coastal bunkers,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Natural gas            ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2
+aus,Of which coastal bunkers,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Electricity            ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which coastal bunkers,,,Of which coastal bunkers,16,15.6,25.8,27.9,30.1,28,33.5,34.2,30.9,34.3,33.6,26.9,23.5,22.6,24.7,25.4,25.6,26.3,34.3
+aus,Air_transport                                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    LPG                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Aviation gasoline      ,,,3.1,3.1,3.1,3.1,3,3.9,3,2.9,3.2,2.6,2.6,2.8,2.7,2.4,2.3,2.2,2.3,2.2,2.2
+aus,Air_transport                                 ,    Aviation turbine fuel  ,,,191.4,162.8,156.2,176.8,199.4,205.5,226.9,233.1,237.9,252.5,260.1,270,286.1,300.6,299.7,313.4,328.5,344.5,347.2
+aus,Air_transport                                 ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Diesel                    ,,,0,0,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Natural gas            ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Electricity            ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Air_transport                                 ,,,Air_transport                                 ,194.4,165.9,159.3,179.9,202.5,209.4,229.9,236,241.1,255.2,262.7,272.8,288.7,303,301.9,315.6,330.7,346.7,349.4
+aus,Of which domestic air transport                           ,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    LPG                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Aviation gasoline      ,,,3.1,3.1,3.1,3.1,3,3.9,3,2.9,3.2,2.6,2.6,2.8,2.7,2.4,2.3,2.2,2.3,2.2,2.2
+aus,Of which domestic air transport                           ,    Aviation turbine fuel  ,,,82.5,73.8,70.4,73.8,80.6,85.1,92.6,100,101.9,103.9,115.1,119.5,127.6,129.7,129.8,134.6,133,136.5,126.8
+aus,Of which domestic air transport                           ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Diesel                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Natural gas            ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Electricity            ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which domestic air transport                           ,,,Of which domestic air transport                           ,85.6,76.9,73.5,77,83.6,89,95.6,102.9,105.1,106.5,117.7,122.3,130.3,132.1,132.1,136.9,135.3,138.7,129
+aus,Of which international air transport                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    LPG                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Aviation turbine fuel  ,,,112.9,97,85.8,102.9,118.8,120.4,134.3,133.1,136,148.7,145,150.5,158.4,170.9,169.8,178.8,195.5,208,220.4
+aus,Of which international air transport                      ,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Diesel                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Natural gas            ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Electricity            ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Of which international air transport                      ,,,Of which international air transport                      ,112.9,97,85.8,102.9,118.8,120.4,134.3,133.1,136,148.7,145,150.5,158.4,170.9,169.8,178.8,195.5,208,220.4
+aus,Other_transport_services,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Black coal             ,,,,,,,,,,,,0,,,,,,,,,
+aus,Other_transport_services,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    LPG                    ,,,,,0,0,0,0,0,0.1,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3
+aus,Other_transport_services,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Auto gasoline-unleaded ,,,,,,,,,,,0.5,0.4,0.5,0.4,0.4,0.3,0.3,0.2,0.2,0.2,0.2
+aus,Other_transport_services,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Aviation turbine fuel  ,,,,,,,,,,,0,0,0,0,0.6,0.3,0.4,0.3,0.3,0.4,0.4
+aus,Other_transport_services,    Kerosene and Heating oil  ,,,,,,,,,,,,,0,,0,0,0,0,0,0,0
+aus,Other_transport_services,    Diesel                    ,,,4,4.2,4.5,4.7,4.9,6.4,6.7,7.4,4.1,4.3,4.3,5.4,5.3,6.1,8.1,8.6,7.6,7.4,7.8
+aus,Other_transport_services,    Fuel oil               ,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0.1,0.1
+aus,Other_transport_services,    Petroleum products nec ,,,,,,,,,,,0.3,0.3,0.1,0.1,0.1,0.1,0.2,0.1,0.2,0,0
+aus,Other_transport_services,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Natural gas            ,,,12.5,14.2,15.3,14.5,15.4,16.3,17,17.2,11.9,11.6,10.7,10.2,11.1,10.5,10.5,12.3,13.3,15.4,17.9
+aus,Other_transport_services,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,    Solar energy           ,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0
+aus,Other_transport_services,    Electricity            ,,,1.1,1.1,4.1,4.2,4.2,4.8,5,5.4,5,5.7,6.1,6.7,7,7.3,8.9,9.3,9.4,9.8,10.8
+aus,Other_transport_services,    Liquid/gas Biofuels               ,,,,,,,,,,,0,0,0,0,0,0.1,0.1,0.1,0,0,0
+aus,Other_transport_services,,,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Other_transport_services,,,Other_transport_services,17.8,19.5,24,23.4,24.6,27.5,28.7,30,22.1,22.7,21.9,23.1,24.7,24.9,28.7,31.1,31.3,33.5,37.4
+aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Black coal             ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,,,,,,,,,,,
+aus,Residential                                      ,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Brown coal briquettes  ,,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0,0,0,0,
+aus,Residential                                      ,"    Wood, woodwaste        ",,,79.5,65.2,73.2,70.6,67.8,65.6,63.2,60.8,58.2,55.6,52.8,52.8,52.8,51.8,49.8,49.2,48.8,48.2,47.6
+aus,Residential                                      ,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    LPG                    ,,,10.8,11,11.4,11.2,11.3,13.9,13.2,15,15.1,14.7,15.6,15.3,15.7,15.4,14.9,17.6,15.4,15.5,16
+aus,Residential                                      ,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Kerosene and Heating oil  ,,,2.8,2.7,2.8,1.6,0,0,0,0,,,,,,,,,,,
+aus,Residential                                      ,    Diesel                    ,,,1.5,1.5,1.6,1.5,1.4,1.3,1.3,1.3,1.2,1.2,1.1,1.1,1,1.1,1.2,,,,
+aus,Residential                                      ,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Solvents               ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Bitumen                ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,    Natural gas            ,,,121.6,124.9,124.9,125.3,128.4,132.5,134.5,136.9,141.1,144.1,148.1,150.8,154.8,158.9,162.3,165.8,165.7,165.6,168.8
+aus,Residential                                      ,    Town gas               ,,,0.8,0.8,0.9,0.8,0.8,0.8,0.7,0.5,0.3,0.2,0.1,0.1,0.1,,,,,,
+aus,Residential                                      ,    Solar energy           ,,,2.4,2.6,2.6,2.5,2.5,2.3,5.8,6.5,8,10.1,11.3,12,12.8,12.9,14.4,14.5,15.3,16.1,17
+aus,Residential                                      ,    Electricity            ,,,178.5,180.2,194,201.5,198.5,201.5,207.7,210.2,213.5,218.4,225.1,221.3,217.9,207.7,213.6,213.9,213.3,212.9,211.4
+aus,Residential                                      ,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Residential                                      ,,,Residential                                      ,398,389,411.6,415,410.9,418,426.7,431.2,437.4,444.3,454.1,453.4,455.1,447.8,456.2,460.9,458.5,458.4,460.9
+aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Black coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Brown coal             ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Coke                   ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,"    Wood, woodwaste        ",,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Bagasse                ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Crude Oil and Other Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    LPG                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Kerosene and Heating oil  ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Diesel                    ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Petroleum products nec ,,,0.4,0.4,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.1,0.1
+aus,Solvents_lubricants,    Solvents b         ,,,9.2,10.4,8.1,6.3,6.5,10.2,10.6,11.4,10,,,,,,,,,,
+aus,Solvents_lubricants,    Lubricants and greases   ,,,21.1,21.5,22,23.9,18.2,17.5,16.3,17.1,17.2,17.8,16.7,13.6,13.4,13,12.6,12.4,13.2,12.3,12.9
+aus,Solvents_lubricants,    Bitumen b       ,,,31.5,33.2,29.6,32.6,35.6,35.5,35.6,34.5,35.6,,,,,,,,,,
+aus,Solvents_lubricants,    Natural gas            ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Town gas               ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Solar energy           ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Electricity            ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,    Liquid/gas Biofuels               ,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Coke                   ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Coal byproducts        ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Brown coal briquettes  ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Refinery feedstock     ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    LPG                    ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Auto gasoline-leaded   ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Auto gasoline-unleaded ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Aviation gasoline      ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Aviation turbine fuel  ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Kerosene and Heating oil                    ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Diesel                    ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Fuel oil               ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Petroleum products nec ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Solvents               ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
+aus,Solvents_lubricants,,,Solvents_lubricants,62.3,65.6,59.8,62.9,60.4,63.4,62.7,63.2,63,65,59.7,55.1,53.5,50.9,45.6,48.8,46,49.9,49.3
+aus,Solvents_lubricants,,,,,,,,,,,,,,,,,,,,,,

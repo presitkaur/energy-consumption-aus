@@ -45,7 +45,7 @@ aus,Agriculture,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Agriculture,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Agriculture,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Agriculture,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Agriculture,,,Energy consumption   ,85.5,86.2,97.7,97.6,101.5,96.9,94.2,95,93.9,96.1,96.2,98.2,99.3,99.6,104.5,109.8,116.3,117.6,103.1
+aus,Agriculture,,,Agriculture,85.5,86.2,97.7,97.6,101.5,96.9,94.2,95,93.9,96.1,96.2,98.2,99.3,99.6,104.5,109.8,116.3,117.6,103.1
 aus,Mining                                    ,,,,,,,,,,,,,,,,,,,,,,
 aus,Mining                                    ,,,,,,,,,,,,,,,,,,,,,,
 aus,Mining                                    ,,,,,,,,,,,,,,,,,,,,,,
@@ -93,7 +93,7 @@ aus,Mining                                    ,,    Lubricants and greases   ,,,
 aus,Mining                                    ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Mining                                    ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Mining                                    ,,    Thermal electricity    ,,11.4,8.9,,,,,,,,,,,,,,,,,
-aus,Mining                                    ,,,Energy consumption   ,253.9,268.8,258.3,268.5,290.2,307.9,327.3,334.8,369.4,372.3,407.5,448.1,500.9,529.5,521.2,575.6,666.3,729.7,812.4
+aus,Mining                                    ,,,Mining                                    ,253.9,268.8,258.3,268.5,290.2,307.9,327.3,334.8,369.4,372.3,407.5,448.1,500.9,529.5,521.2,575.6,666.3,729.7,812.4
 aus,Coal_mining ,,,,,,,,,,,,,,,,,,,,,,
 aus,Coal_mining ,,,,,,,,,,,,,,,,,,,,,,
 aus,Coal_mining ,,,,,,,,,,,,,,,,,,,,,,
@@ -141,7 +141,7 @@ aus,Coal_mining ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Coal_mining ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Coal_mining ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Coal_mining ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Coal_mining ,,,Energy consumption   ,,,66.3,73.1,84.2,77.4,76.2,77.8,83.9,87,97.1,114.2,126.2,129.1,123.8,126.5,135.1,143.7,153.6
+aus,Coal_mining ,,,Coal_mining ,,,66.3,73.1,84.2,77.4,76.2,77.8,83.9,87,97.1,114.2,126.2,129.1,123.8,126.5,135.1,143.7,153.6
 aus,Oil_and_gas,,,,,,,,,,,,,,,,,,,,,,
 aus,Oil_and_gas,,,,,,,,,,,,,,,,,,,,,,
 aus,Oil_and_gas,,,,,,,,,,,,,,,,,,,,,,
@@ -189,7 +189,7 @@ aus,Oil_and_gas,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Oil_and_gas,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Oil_and_gas,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Oil_and_gas,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Oil_and_gas,,,Energy consumption   ,,,114.4,118.5,128.7,145.5,164.8,165.2,174.8,174.8,180.8,180.9,195.7,213.5,219.5,272.6,346.5,390,453
+aus,Oil_and_gas,,,Oil_and_gas,,,114.4,118.5,128.7,145.5,164.8,165.2,174.8,174.8,180.8,180.9,195.7,213.5,219.5,272.6,346.5,390,453
 aus,Other_mining ,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_mining ,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_mining ,,,,,,,,,,,,,,,,,,,,,,
@@ -237,7 +237,7 @@ aus,Other_mining ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Other_mining ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Other_mining ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Other_mining ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Other_mining ,,,Energy consumption   ,,,77.6,76.9,77.4,85,86.3,91.7,110.7,110.5,129.6,153,179,186.9,177.9,176.5,184.8,196,205.9
+aus,Other_mining ,,,Other_mining ,,,77.6,76.9,77.4,85,86.3,91.7,110.7,110.5,129.6,153,179,186.9,177.9,176.5,184.8,196,205.9
 aus,Manufacturing                             ,,,,,,,,,,,,,,,,,,,,,,
 aus,Manufacturing                             ,,,,,,,,,,,,,,,,,,,,,,
 aus,Manufacturing                             ,,,,,,,,,,,,,,,,,,,,,,
@@ -285,7 +285,7 @@ aus,Manufacturing                             ,,    Lubricants and greases   ,,3
 aus,Manufacturing                             ,,    Bitumen                ,,32.3,38.7,30.3,29.7,45.9,34.6,59.7,63.9,56.9,30.4,20.9,18.7,11.3,6.8,5.4,7.3,5.2,4.1,3.9
 aus,Manufacturing                             ,,    Town gas               ,,4,4.1,4.1,4.1,4.1,4,3.9,3.1,,,,,,,,,,,
 aus,Manufacturing                             ,,    Thermal electricity    ,,26,25.2,,,,,,,,,,,,,,,,,
-aus,Manufacturing                             ,,,Energy consumption   ,1188.3,1207.4,1175,1136.6,1163.7,1231.4,1258.7,1207.5,1171.1,1259.5,1330.2,1214.6,1265.3,1234,1112.8,1110.2,1080.1,1079.7,1050.2
+aus,Manufacturing                             ,,,Manufacturing                             ,1188.3,1207.4,1175,1136.6,1163.7,1231.4,1258.7,1207.5,1171.1,1259.5,1330.2,1214.6,1265.3,1234,1112.8,1110.2,1080.1,1079.7,1050.2
 aus,Food_beverages,,,,,,,,,,,,,,,,,,,,,,
 aus,Food_beverages,,,,,,,,,,,,,,,,,,,,,,
 aus,Food_beverages,,,,,,,,,,,,,,,,,,,,,,
@@ -333,7 +333,7 @@ aus,Food_beverages,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Food_beverages,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Food_beverages,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Food_beverages,,    Thermal electricity    ,,2.9,3.1,,,,,,,,,,,,,,,,,
-aus,Food_beverages,,,Energy consumption   ,163.8,158.2,101.4,100.9,108.1,108.1,105.6,106.2,119.4,148.3,151.2,151.2,163.3,154.3,165.6,161.7,165.8,154.1,146.4
+aus,Food_beverages,,,Food_beverages,163.8,158.2,101.4,100.9,108.1,108.1,105.6,106.2,119.4,148.3,151.2,151.2,163.3,154.3,165.6,161.7,165.8,154.1,146.4
 aus,Textile,,,,,,,,,,,,,,,,,,,,,,
 aus,Textile,,,,,,,,,,,,,,,,,,,,,,
 aus,Textile,,,,,,,,,,,,,,,,,,,,,,
@@ -381,7 +381,7 @@ aus,Textile,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Textile,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Textile,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Textile,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Textile,,,Energy consumption   ,11,11,11.4,11.2,11.7,11.4,11.5,10.9,9.7,9.1,7.7,7.5,7.5,7.4,7.4,7.3,7.2,7.6,7.1
+aus,Textile,,,Textile,11,11,11.4,11.2,11.7,11.4,11.5,10.9,9.7,9.1,7.7,7.5,7.5,7.4,7.4,7.3,7.2,7.6,7.1
 aus,Wood                   ,,,,,,,,,,,,,,,,,,,,,,
 aus,Wood                   ,,,,,,,,,,,,,,,,,,,,,,
 aus,Wood                   ,,,,,,,,,,,,,,,,,,,,,,
@@ -429,7 +429,7 @@ aus,Wood                   ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Wood                   ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Wood                   ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Wood                   ,,    Thermal electricity    ,,2.4,2.4,,,,,,,,,,,,,,,,,
-aus,Wood                   ,,,Energy consumption   ,62,62.2,63.8,65.7,67.5,68.5,71.7,72,,,,,,,,,,,
+aus,Wood                   ,,,Wood                   ,62,62.2,63.8,65.7,67.5,68.5,71.7,72,,,,,,,,,,,
 aus,Other_wood_products                  ,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_wood_products                  ,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_wood_products                  ,,,,,,,,,,,,,,,,,,,,,,
@@ -477,7 +477,7 @@ aus,Other_wood_products                  ,,    Lubricants and greases   ,,,,,,,,
 aus,Other_wood_products                  ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Other_wood_products                  ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Other_wood_products                  ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Other_wood_products                  ,,,Energy consumption   ,,,,,,,,,20.2,19.7,18.9,17.2,17.2,18.7,19,20.5,20.5,19.9,16.9
+aus,Other_wood_products                  ,,,Other_wood_products                  ,,,,,,,,,20.2,19.7,18.9,17.2,17.2,18.7,19,20.5,20.5,19.9,16.9
 aus,Pulp_paper,,,,,,,,,,,,,,,,,,,,,,
 aus,Pulp_paper,,,,,,,,,,,,,,,,,,,,,,
 aus,Pulp_paper,,,,,,,,,,,,,,,,,,,,,,
@@ -525,7 +525,7 @@ aus,Pulp_paper,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Pulp_paper,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Pulp_paper,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Pulp_paper,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Pulp_paper,,,Energy consumption   ,,,,,,,,,40.4,42.8,43.9,41.3,39,37.2,37,37.3,37.6,38.3,37.3
+aus,Pulp_paper,,,Pulp_paper,,,,,,,,,40.4,42.8,43.9,41.3,39,37.2,37,37.3,37.6,38.3,37.3
 aus,Petroleum_refining                           ,,,,,,,,,,,,,,,,,,,,,,
 aus,Petroleum_refining                           ,,,,,,,,,,,,,,,,,,,,,,
 aus,Petroleum_refining                           ,,,,,,,,,,,,,,,,,,,,,,
@@ -573,7 +573,7 @@ aus,Petroleum_refining                           ,,    Lubricants and greases   
 aus,Petroleum_refining                           ,,    Bitumen                ,,32.3,38.7,30.3,29.7,45.9,34.6,59.7,63.9,56.9,30.4,20.9,18.7,10.2,5.9,5,7.3,5.2,4.1,3.9
 aus,Petroleum_refining                           ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Petroleum_refining                           ,,    Thermal electricity    ,,1.3,1.8,,,,,,,,,,,,,,,,,
-aus,Petroleum_refining                           ,,,Energy consumption   ,277.5,306.4,143,69.4,87.1,158.2,149.8,80.6,107.1,128.6,189.6,82.7,150,125.4,67.3,86.3,81.7,87.1,84.8
+aus,Petroleum_refining                           ,,,Petroleum_refining                           ,277.5,306.4,143,69.4,87.1,158.2,149.8,80.6,107.1,128.6,189.6,82.7,150,125.4,67.3,86.3,81.7,87.1,84.8
 aus,Other_petroleum_manufacturing          ,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_petroleum_manufacturing          ,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_petroleum_manufacturing          ,,,,,,,,,,,,,,,,,,,,,,
@@ -621,7 +621,7 @@ aus,Other_petroleum_manufacturing          ,,    Lubricants and greases   ,,,,0.
 aus,Other_petroleum_manufacturing          ,,    Bitumen                ,,,,,,,,,,,,,,1,1,0.4,,,,
 aus,Other_petroleum_manufacturing          ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Other_petroleum_manufacturing          ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Other_petroleum_manufacturing          ,,,Energy consumption   ,11.2,8.8,18.2,21.6,13,7.6,8.7,11.6,16.4,11,13.6,21.8,17.6,17,17.3,15.2,11.6,13,16.6
+aus,Other_petroleum_manufacturing          ,,,Other_petroleum_manufacturing          ,11.2,8.8,18.2,21.6,13,7.6,8.7,11.6,16.4,11,13.6,21.8,17.6,17,17.3,15.2,11.6,13,16.6
 aus,Basic_chemical_Polymer,,,,,,,,,,,,,,,,,,,,,,
 aus,Basic_chemical_Polymer,,,,,,,,,,,,,,,,,,,,,,
 aus,Basic_chemical_Polymer,,,,,,,,,,,,,,,,,,,,,,
@@ -669,7 +669,7 @@ aus,Basic_chemical_Polymer,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Basic_chemical_Polymer,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Basic_chemical_Polymer,,    Town gas/Hydrogen,,4,4.1,4.1,4.1,4.1,4,3.9,3.1,,,,,,,,,,,
 aus,Basic_chemical_Polymer,,    Thermal electricity    ,,1.2,1.4,,,,,,,,,,,,,,,,,
-aus,Basic_chemical_Polymer,,,Energy consumption   ,155.2,154.6,170.5,184.3,180.2,184.2,182.2,189.3,186.1,206.7,212.9,221.9,218.2,235.4,218.4,202.4,194.4,195.9,186.8
+aus,Basic_chemical_Polymer,,,Basic_chemical_Polymer,155.2,154.6,170.5,184.3,180.2,184.2,182.2,189.3,186.1,206.7,212.9,221.9,218.2,235.4,218.4,202.4,194.4,195.9,186.8
 aus,Non-metallic_mineral                ,,,,,,,,,,,,,,,,,,,,,,
 aus,Non-metallic_mineral                ,,,,,,,,,,,,,,,,,,,,,,
 aus,Non-metallic_mineral                ,,,,,,,,,,,,,,,,,,,,,,
@@ -717,7 +717,7 @@ aus,Non-metallic_mineral                ,,    Lubricants and greases   ,,,,,,,,,
 aus,Non-metallic_mineral                ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Non-metallic_mineral                ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Non-metallic_mineral                ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Non-metallic_mineral                ,,,Energy consumption   ,99.1,100.7,117,117.6,112.4,109,122.9,123,119.4,122.6,120.6,110.8,102.8,98.1,98.1,98.5,92,92.8,92.9
+aus,Non-metallic_mineral                ,,,Non-metallic_mineral                ,99.1,100.7,117,117.6,112.4,109,122.9,123,119.4,122.6,120.6,110.8,102.8,98.1,98.1,98.5,92,92.8,92.9
 aus,Glass_products                     ,,,,,,,,,,,,,,,,,,,,,,
 aus,Glass_products                     ,,,,,,,,,,,,,,,,,,,,,,
 aus,Glass_products                     ,,,,,,,,,,,,,,,,,,,,,,
@@ -765,7 +765,7 @@ aus,Glass_products                     ,,    Lubricants and greases   ,,,,,,,,,,
 aus,Glass_products                     ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Glass_products                     ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Glass_products                     ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Glass_products                     ,,,Energy consumption   ,12,11.8,14.3,14.1,12.9,11.8,12.8,13,14.6,14.8,16.1,15.5,14.3,12.7,11.7,12,11.9,11.9,11.7
+aus,Glass_products                     ,,,Glass_products                     ,12,11.8,14.3,14.1,12.9,11.8,12.8,13,14.6,14.8,16.1,15.5,14.3,12.7,11.7,12,11.9,11.9,11.7
 aus,Ceramics                                     ,,,,,,,,,,,,,,,,,,,,,,
 aus,Ceramics                                     ,,,,,,,,,,,,,,,,,,,,,,
 aus,Ceramics                                     ,,,,,,,,,,,,,,,,,,,,,,
@@ -813,7 +813,7 @@ aus,Ceramics                                     ,,    Lubricants and greases   
 aus,Ceramics                                     ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Ceramics                                     ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Ceramics                                     ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Ceramics                                     ,,,Energy consumption   ,25.6,26.1,27.1,27.3,29.4,25,25.9,25.7,25.6,28,26,20.8,20.3,20.8,21.1,22.9,21.1,21,20.5
+aus,Ceramics                                     ,,,Ceramics,25.6,26.1,27.1,27.3,29.4,25,25.9,25.7,25.6,28,26,20.8,20.3,20.8,21.1,22.9,21.1,21,20.5
 aus,Cement_and_other,,,,,,,,,,,,,,,,,,,,,,
 aus,Cement_and_other,,,,,,,,,,,,,,,,,,,,,,
 aus,Cement_and_other,,,,,,,,,,,,,,,,,,,,,,
@@ -861,7 +861,7 @@ aus,Cement_and_other,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Cement_and_other,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Cement_and_other,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Cement_and_other,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Cement_and_other,,,Energy consumption   ,48.1,49.2,64.7,65.1,59.1,61.1,72.7,72.6,71.5,71.9,69.9,65.9,59.3,55.9,56.1,54.5,51.4,51.6,51.5
+aus,Cement_and_other,,,Cement_and_other,48.1,49.2,64.7,65.1,59.1,61.1,72.7,72.6,71.5,71.9,69.9,65.9,59.3,55.9,56.1,54.5,51.4,51.6,51.5
 aus,Other_non-metallic_mineral,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_non-metallic_mineral,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_non-metallic_mineral,,,,,,,,,,,,,,,,,,,,,,
@@ -909,7 +909,7 @@ aus,Other_non-metallic_mineral,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,
 aus,Other_non-metallic_mineral,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Other_non-metallic_mineral,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Other_non-metallic_mineral,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Other_non-metallic_mineral,,,Energy consumption   ,13.4,13.6,10.9,11,11,11.1,11.4,11.7,7.8,7.9,8.7,8.6,8.9,8.7,9.1,9.1,7.6,8.3,9.1
+aus,Other_non-metallic_mineral,,,Other_non-metallic_mineral,13.4,13.6,10.9,11,11,11.1,11.4,11.7,7.8,7.9,8.7,8.6,8.9,8.7,9.1,9.1,7.6,8.3,9.1
 aus,Iron_and_steel                               ,,,,,,,,,,,,,,,,,,,,,,
 aus,Iron_and_steel                               ,,,,,,,,,,,,,,,,,,,,,,
 aus,Iron_and_steel                               ,,,,,,,,,,,,,,,,,,,,,,
@@ -957,7 +957,7 @@ aus,Iron_and_steel                               ,,    Lubricants and greases   
 aus,Iron_and_steel                               ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Iron_and_steel                               ,,    Town gas /Hydrogen,,,,,,,,,,,,,,,,,,,,
 aus,Iron_and_steel                               ,,    Thermal electricity    ,,1.5,1.5,,,,,,,,,,,,,,,,,
-aus,Iron_and_steel                               ,,,Energy consumption   ,179,181.7,163.6,172.7,167.1,169.2,177.5,182.1,136.6,163.4,163.2,130.8,121.3,112.3,113.5,113.4,115.9,119.3,114.6
+aus,Iron_and_steel                               ,,,Iron_and_steel                               ,179,181.7,163.6,172.7,167.1,169.2,177.5,182.1,136.6,163.4,163.2,130.8,121.3,112.3,113.5,113.4,115.9,119.3,114.6
 aus,Basic_non-ferrous_metals                 ,,,,,,,,,,,,,,,,,,,,,,
 aus,Basic_non-ferrous_metals                 ,,,,,,,,,,,,,,,,,,,,,,
 aus,Basic_non-ferrous_metals                 ,,,,,,,,,,,,,,,,,,,,,,
@@ -1005,7 +1005,7 @@ aus,Basic_non-ferrous_metals                 ,,    Lubricants and greases   ,,,,
 aus,Basic_non-ferrous_metals                 ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Basic_non-ferrous_metals                 ,,    Town gas /Hydrogen,,,,,,,,,,,,,,,,,,,,
 aus,Basic_non-ferrous_metals                 ,,    Thermal electricity    ,,16.7,14.9,,,,,,,,,,,,,,,,,
-aus,Basic_non-ferrous_metals                 ,,,Energy consumption   ,360.9,365.2,358.9,364.9,388.7,389.8,402.4,405.7,389.3,382.8,383.4,404.2,405.7,406.7,348.7,348.4,335.9,336.6,333.1
+aus,Basic_non-ferrous_metals                 ,,,Basic_non-ferrous_metals                 ,360.9,365.2,358.9,364.9,388.7,389.8,402.4,405.7,389.3,382.8,383.4,404.2,405.7,406.7,348.7,348.4,335.9,336.6,333.1
 aus,Fabricated_metal,,,,,,,,,,,,,,,,,,,,,,
 aus,Fabricated_metal,,,,,,,,,,,,,,,,,,,,,,
 aus,Fabricated_metal,,,,,,,,,,,,,,,,,,,,,,
@@ -1053,7 +1053,7 @@ aus,Fabricated_metal,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Fabricated_metal,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Fabricated_metal,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Fabricated_metal,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Fabricated_metal,,,Energy consumption   ,8.6,8.3,9.5,9.7,9.3,7.7,7.8,8,8.3,8.2,8.8,8.9,8.2,8.4,8,7.5,7,6.6,6.5
+aus,Fabricated_metal,,,Fabricated_metal,8.6,8.3,9.5,9.7,9.3,7.7,7.8,8,8.3,8.2,8.8,8.9,8.2,8.4,8,7.5,7,6.6,6.5
 aus,Machinery_equipment,,,,,,,,,,,,,,,,,,,,,,
 aus,Machinery_equipment,,,,,,,,,,,,,,,,,,,,,,
 aus,Machinery_equipment,,,,,,,,,,,,,,,,,,,,,,
@@ -1101,7 +1101,7 @@ aus,Machinery_equipment,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Machinery_equipment,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Machinery_equipment,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Machinery_equipment,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Machinery_equipment,,,Energy consumption   ,15.2,15.2,16.2,17.4,17,15.8,16.7,16.3,16.9,15.8,14.9,14.7,13.3,12,11.5,10.6,9.4,7.4,6.2
+aus,Machinery_equipment,,,Machinery_equipment,15.2,15.2,16.2,17.4,17,15.8,16.7,16.3,16.9,15.8,14.9,14.7,13.3,12,11.5,10.6,9.4,7.4,6.2
 aus,Furniture,,,,,,,,,,,,,,,,,,,,,,
 aus,Furniture,,,,,,,,,,,,,,,,,,,,,,
 aus,Furniture,,,,,,,,,,,,,,,,,,,,,,
@@ -1149,7 +1149,7 @@ aus,Furniture,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Furniture,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Furniture,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Furniture,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Furniture,,,Energy consumption   ,0.6,0.8,1.4,1.4,1.8,1.8,1.9,1.9,1.4,0.5,1.5,1.5,1.2,1.1,1.2,1.1,1.1,1,1
+aus,Furniture,,,Furniture,0.6,0.8,1.4,1.4,1.8,1.8,1.9,1.9,1.4,0.5,1.5,1.5,1.2,1.1,1.2,1.1,1.1,1,1
 aus,Electricity_gas_water_serv,,,,,,,,,,,,,,,,,,,,,,
 aus,Electricity_gas_water_serv,,,,,,,,,,,,,,,,,,,,,,
 aus,Electricity_gas_water_serv,,,,,,,,,,,,,,,,,,,,,,
@@ -1197,7 +1197,7 @@ aus,Electricity_gas_water_serv,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,
 aus,Electricity_gas_water_serv,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Electricity_gas_water_serv,,    Town gas               ,,1,1,1,1,1.1,1,0.8,0.6,0.4,0.3,0.2,0.2,,,,,,,
 aus,Electricity_gas_water_serv,,    Thermal electricity    ,,701.8,714.9,737.5,765.6,763.5,774,813.3,820.6,834,839.7,825,817.7,790.8,777.4,799,803.1,795.8,791.8,775.8
-aus,Electricity_gas_water_serv,,,Energy consumption   ,1532,1568.3,1591.9,1693,1730.2,1755.3,1829.8,1847.9,1944.5,1785.6,1713.8,1759.1,1646.2,1610.3,1695.2,1742.9,1701.6,1643,1614.8
+aus,Electricity_gas_water_serv,,,Electricity_gas_water_serv,1532,1568.3,1591.9,1693,1730.2,1755.3,1829.8,1847.9,1944.5,1785.6,1713.8,1759.1,1646.2,1610.3,1695.2,1742.9,1701.6,1643,1614.8
 aus,Electricity_supply,,,,,,,,,,,,,,,,,,,,,,
 aus,Electricity_supply,,,,,,,,,,,,,,,,,,,,,,
 aus,Electricity_supply,,,,,,,,,,,,,,,,,,,,,,
@@ -1245,7 +1245,7 @@ aus,Electricity_supply,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Electricity_supply,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Electricity_supply,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Electricity_supply,,    Thermal electricity    ,,701.8,714.9,737.5,765.6,763.5,774,813.3,820.6,834,839.7,825,817.7,790.8,777.4,799,803.1,795.8,791.8,775.8
-aus,Electricity_supply,,,Energy consumption   ,1513.3,1548,1566.7,1664.8,1706.4,1730.7,1807.8,1823.9,1920.7,1762.5,1689.8,1732.8,1620.6,1584.7,1670.9,1718.3,1682,1621.6,1591.7
+aus,Electricity_supply,,,Electricity_supply,1513.3,1548,1566.7,1664.8,1706.4,1730.7,1807.8,1823.9,1920.7,1762.5,1689.8,1732.8,1620.6,1584.7,1670.9,1718.3,1682,1621.6,1591.7
 aus,Gas_supply            ,,,,,,,,,,,,,,,,,,,,,,
 aus,Gas_supply            ,,,,,,,,,,,,,,,,,,,,,,
 aus,Gas_supply            ,,,,,,,,,,,,,,,,,,,,,,
@@ -1293,7 +1293,7 @@ aus,Gas_supply            ,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Gas_supply            ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Gas_supply            ,,    Town gas               ,,1,1,1,1,1.1,1,0.8,0.6,0.4,0.3,0.2,0.2,,,,,,,
 aus,Gas_supply            ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Gas_supply            ,,,Energy consumption   ,15.3,16.9,15.4,17.8,13.4,13.7,10.5,10.5,10.2,10.2,10.9,10.8,12.6,11.2,10.1,10.2,5.2,6.3,6.6
+aus,Gas_supply            ,,,Gas_supply            ,15.3,16.9,15.4,17.8,13.4,13.7,10.5,10.5,10.2,10.2,10.9,10.8,12.6,11.2,10.1,10.2,5.2,6.3,6.6
 aus,Water_supply_services                 ,,,,,,,,,,,,,,,,,,,,,,
 aus,Water_supply_services                 ,,,,,,,,,,,,,,,,,,,,,,
 aus,Water_supply_services                 ,,,,,,,,,,,,,,,,,,,,,,
@@ -1341,7 +1341,7 @@ aus,Water_supply_services                 ,,    Lubricants and greases   ,,,,,,,
 aus,Water_supply_services                 ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Water_supply_services                 ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Water_supply_services                 ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Water_supply_services                 ,,,Energy consumption   ,8.8,8.5,9.8,10.4,10.4,11,11.5,13.4,13.6,12.9,13.1,15.5,13,14.5,14.2,14.5,14.4,15.2,16.5
+aus,Water_supply_services                 ,,,Water_supply_services                 ,8.8,8.5,9.8,10.4,10.4,11,11.5,13.4,13.6,12.9,13.1,15.5,13,14.5,14.2,14.5,14.4,15.2,16.5
 aus,Construction                              ,,,,,,,,,,,,,,,,,,,,,,
 aus,Construction                              ,,,,,,,,,,,,,,,,,,,,,,
 aus,Construction                              ,,,,,,,,,,,,,,,,,,,,,,
@@ -1389,7 +1389,7 @@ aus,Construction                              ,,    Lubricants and greases   ,,,
 aus,Construction                              ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Construction                              ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Construction                              ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Construction                              ,,,Energy consumption   ,28.2,28.4,27.7,27.4,27.8,26.3,26.3,26.4,25.8,25.3,25.3,25.1,24.9,25,25.6,24.4,24.2,25.9,24.3
+aus,Construction                              ,,,Construction                              ,28.2,28.4,27.7,27.4,27.8,26.3,26.3,26.4,25.8,25.3,25.3,25.1,24.9,25,25.6,24.4,24.2,25.9,24.3
 aus,Commercial_services,,,,,,,,,,,,,,,,,,,,,,
 aus,Commercial_services,,,,,,,,,,,,,,,,,,,,,,
 aus,Commercial_services,,,,,,,,,,,,,,,,,,,,,,
@@ -1437,7 +1437,7 @@ aus,Commercial_services,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Commercial_services,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Commercial_services,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Commercial_services,,    Thermal electricity    ,,0.7,0.7,,,,,,,,,,,,,,,,,
-aus,Commercial_services,,,Energy consumption   ,214.5,222.2,250.7,255.9,256.4,259.4,272.6,274.5,278.6,284.4,291,286.6,296,302.1,320.3,322.7,330.1,333.9,332.6
+aus,Commercial_services,,,Commercial_services,214.5,222.2,250.7,255.9,256.4,259.4,272.6,274.5,278.6,284.4,291,286.6,296,302.1,320.3,322.7,330.1,333.9,332.6
 aus,Transport_postal,,,,,,,,,,,,,,,,,,,,,,
 aus,Transport_postal,,,,,,,,,,,,,,,,,,,,,,
 aus,Transport_postal,,,,,,,,,,,,,,,,,,,,,,
@@ -1485,7 +1485,7 @@ aus,Transport_postal,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Transport_postal,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Transport_postal,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Transport_postal,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Transport_postal,,,Energy consumption   ,1215.2,1217,1265.9,1327.8,1358.1,1388.2,1425.7,1458,1460.1,1490.8,1524.4,1547.6,1574,1592.2,1615.9,1645.5,1691.4,1720.9,1748.4
+aus,Transport_postal,,,Transport_postal,1215.2,1217,1265.9,1327.8,1358.1,1388.2,1425.7,1458,1460.1,1490.8,1524.4,1547.6,1574,1592.2,1615.9,1645.5,1691.4,1720.9,1748.4
 aus,Road_transport                                ,,,,,,,,,,,,,,,,,,,,,,
 aus,Road_transport                                ,,,,,,,,,,,,,,,,,,,,,,
 aus,Road_transport                                ,,,,,,,,,,,,,,,,,,,,,,
@@ -1533,7 +1533,7 @@ aus,Road_transport                                ,,    Lubricants and greases  
 aus,Road_transport                                ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Road_transport                                ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Road_transport                                ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Road_transport                                ,,,Energy consumption   ,933.5,959.7,986.9,1023.5,1029.1,1046.4,1062,1076.5,1087.7,1107.9,1137.4,1144.3,1157.6,1157,1179.3,1189.8,1218.2,1227.6,1231
+aus,Road_transport                                ,,,Road_transport                                ,933.5,959.7,986.9,1023.5,1029.1,1046.4,1062,1076.5,1087.7,1107.9,1137.4,1144.3,1157.6,1157,1179.3,1189.8,1218.2,1227.6,1231
 aus,Rail_transport                             ,,,,,,,,,,,,,,,,,,,,,,
 aus,Rail_transport                             ,,,,,,,,,,,,,,,,,,,,,,
 aus,Rail_transport                             ,,,,,,,,,,,,,,,,,,,,,,
@@ -1581,7 +1581,7 @@ aus,Rail_transport                             ,,    Lubricants and greases   ,,
 aus,Rail_transport                             ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Rail_transport                             ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Rail_transport                             ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Rail_transport                             ,,,Energy consumption   ,28.7,29.7,31.6,34.6,35.4,35.7,36.6,42.3,42,42.2,43.5,47.5,53,54.3,58,60.4,61.7,62.8,63.8
+aus,Rail_transport                             ,,,Rail_transport                             ,28.7,29.7,31.6,34.6,35.4,35.7,36.6,42.3,42,42.2,43.5,47.5,53,54.3,58,60.4,61.7,62.8,63.8
 aus,Water_transport                               ,,,,,,,,,,,,,,,,,,,,,,
 aus,Water_transport                               ,,,,,,,,,,,,,,,,,,,,,,
 aus,Water_transport                               ,,,,,,,,,,,,,,,,,,,,,,
@@ -1629,7 +1629,7 @@ aus,Water_transport                               ,,    Lubricants and greases  
 aus,Water_transport                               ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Water_transport                               ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Water_transport                               ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Water_transport                               ,,,Energy consumption   ,51.8,54.9,64.1,66.5,66.6,69.2,68.5,73.2,67.3,62.9,59,60.1,50,53.1,47.9,48.6,49.3,50.4,66.8
+aus,Water_transport                               ,,,Water_transport                               ,51.8,54.9,64.1,66.5,66.6,69.2,68.5,73.2,67.3,62.9,59,60.1,50,53.1,47.9,48.6,49.3,50.4,66.8
 aus,Of which international bunkers,,,,,,,,,,,,,,,,,,,,,,
 aus,Of which international bunkers,,,,,,,,,,,,,,,,,,,,,,
 aus,Of which international bunkers,,,,,,,,,,,,,,,,,,,,,,
@@ -1677,7 +1677,7 @@ aus,Of which international bunkers,,    Lubricants and greases   ,,,,,,,,,,,,,,,
 aus,Of which international bunkers,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Of which international bunkers,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Of which international bunkers,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Of which international bunkers,,,Energy consumption   ,36,39.4,38.3,38.6,36.4,41.1,35,39,36.3,28.5,25.4,33.2,26.5,30.4,23.2,23.1,23.7,24.1,32.5
+aus,Of which international bunkers,,,Of which international bunkers,36,39.4,38.3,38.6,36.4,41.1,35,39,36.3,28.5,25.4,33.2,26.5,30.4,23.2,23.1,23.7,24.1,32.5
 aus,Of which coastal bunkers,,,,,,,,,,,,,,,,,,,,,,
 aus,Of which coastal bunkers,,,,,,,,,,,,,,,,,,,,,,
 aus,Of which coastal bunkers,,,,,,,,,,,,,,,,,,,,,,
@@ -1725,7 +1725,7 @@ aus,Of which coastal bunkers,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Of which coastal bunkers,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Of which coastal bunkers,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Of which coastal bunkers,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Of which coastal bunkers,,,Energy consumption   ,16,15.6,25.8,27.9,30.1,28,33.5,34.2,30.9,34.3,33.6,26.9,23.5,22.6,24.7,25.4,25.6,26.3,34.3
+aus,Of which coastal bunkers,,,Of which coastal bunkers,16,15.6,25.8,27.9,30.1,28,33.5,34.2,30.9,34.3,33.6,26.9,23.5,22.6,24.7,25.4,25.6,26.3,34.3
 aus,Air_transport                                 ,,,,,,,,,,,,,,,,,,,,,,
 aus,Air_transport                                 ,,,,,,,,,,,,,,,,,,,,,,
 aus,Air_transport                                 ,,,,,,,,,,,,,,,,,,,,,,
@@ -1773,7 +1773,7 @@ aus,Air_transport                                 ,,    Lubricants and greases  
 aus,Air_transport                                 ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Air_transport                                 ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Air_transport                                 ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Air_transport                                 ,,,Energy consumption   ,194.4,165.9,159.3,179.9,202.5,209.4,229.9,236,241.1,255.2,262.7,272.8,288.7,303,301.9,315.6,330.7,346.7,349.4
+aus,Air_transport                                 ,,,Air_transport                                 ,194.4,165.9,159.3,179.9,202.5,209.4,229.9,236,241.1,255.2,262.7,272.8,288.7,303,301.9,315.6,330.7,346.7,349.4
 aus,Of which domestic air transport                           ,,,,,,,,,,,,,,,,,,,,,,
 aus,Of which domestic air transport                           ,,,,,,,,,,,,,,,,,,,,,,
 aus,Of which domestic air transport                           ,,,,,,,,,,,,,,,,,,,,,,
@@ -1821,7 +1821,7 @@ aus,Of which domestic air transport                           ,,    Lubricants a
 aus,Of which domestic air transport                           ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Of which domestic air transport                           ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Of which domestic air transport                           ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Of which domestic air transport                           ,,,Energy consumption   ,85.6,76.9,73.5,77,83.6,89,95.6,102.9,105.1,106.5,117.7,122.3,130.3,132.1,132.1,136.9,135.3,138.7,129
+aus,Of which domestic air transport                           ,,,Of which domestic air transport                           ,85.6,76.9,73.5,77,83.6,89,95.6,102.9,105.1,106.5,117.7,122.3,130.3,132.1,132.1,136.9,135.3,138.7,129
 aus,Of which international air transport                      ,,,,,,,,,,,,,,,,,,,,,,
 aus,Of which international air transport                      ,,,,,,,,,,,,,,,,,,,,,,
 aus,Of which international air transport                      ,,,,,,,,,,,,,,,,,,,,,,
@@ -1869,7 +1869,7 @@ aus,Of which international air transport                      ,,    Lubricants a
 aus,Of which international air transport                      ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Of which international air transport                      ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Of which international air transport                      ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Of which international air transport                      ,,,Energy consumption   ,112.9,97,85.8,102.9,118.8,120.4,134.3,133.1,136,148.7,145,150.5,158.4,170.9,169.8,178.8,195.5,208,220.4
+aus,Of which international air transport                      ,,,Of which international air transport                      ,112.9,97,85.8,102.9,118.8,120.4,134.3,133.1,136,148.7,145,150.5,158.4,170.9,169.8,178.8,195.5,208,220.4
 aus,Other_transport_services,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_transport_services,,,,,,,,,,,,,,,,,,,,,,
 aus,Other_transport_services,,,,,,,,,,,,,,,,,,,,,,
@@ -1917,7 +1917,7 @@ aus,Other_transport_services,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Other_transport_services,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Other_transport_services,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Other_transport_services,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Other_transport_services,,,Energy consumption   ,17.8,19.5,24,23.4,24.6,27.5,28.7,30,22.1,22.7,21.9,23.1,24.7,24.9,28.7,31.1,31.3,33.5,37.4
+aus,Other_transport_services,,,Other_transport_services,17.8,19.5,24,23.4,24.6,27.5,28.7,30,22.1,22.7,21.9,23.1,24.7,24.9,28.7,31.1,31.3,33.5,37.4
 aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
 aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
 aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
@@ -1965,7 +1965,7 @@ aus,Residential                                      ,,    Lubricants and grease
 aus,Residential                                      ,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Residential                                      ,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Residential                                      ,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Residential                                      ,,,Energy consumption   ,398,389,411.6,415,410.9,418,426.7,431.2,437.4,444.3,454.1,453.4,455.1,447.8,456.2,460.9,458.5,458.4,460.9
+aus,Residential                                      ,,,Residential                                      ,398,389,411.6,415,410.9,418,426.7,431.2,437.4,444.3,454.1,453.4,455.1,447.8,456.2,460.9,458.5,458.4,460.9
 aus,Residential                                      ,,,,,,,,,,,,,,,,,,,,,,
 aus,Solvents_lubricants,,,,,,,,,,,,,,,,,,,,,,
 aus,Solvents_lubricants,,,,,,,,,,,,,,,,,,,,,,
@@ -2013,5 +2013,5 @@ aus,Solvents_lubricants,,    Lubricants and greases   ,,,,,,,,,,,,,,,,,,,,
 aus,Solvents_lubricants,,    Bitumen                ,,,,,,,,,,,,,,,,,,,,
 aus,Solvents_lubricants,,    Town gas               ,,,,,,,,,,,,,,,,,,,,
 aus,Solvents_lubricants,,    Thermal electricity    ,,,,,,,,,,,,,,,,,,,,
-aus,Solvents_lubricants,,,Energy consumption   ,62.3,65.6,59.8,62.9,60.4,63.4,62.7,63.2,63,65,59.7,55.1,53.5,50.9,45.6,48.8,46,49.9,49.3
+aus,Solvents_lubricants,,,Solvents_lubricants,62.3,65.6,59.8,62.9,60.4,63.4,62.7,63.2,63,65,59.7,55.1,53.5,50.9,45.6,48.8,46,49.9,49.3
 aus,Solvents_lubricants,,,,,,,,,,,,,,,,,,,,,,
